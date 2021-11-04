@@ -10,7 +10,7 @@ sort: by_weight
 用车	yong che	574181
 熊猫	xiong mao	547034
 车展	che zhan	520508
-模具	mu ju	501372
+模具	mo ju	501372
 仪表	yi biao	434898
 一汽	yi qi	396127
 遥控	yao kong	363210
@@ -120,7 +120,7 @@ sort: by_weight
 源动力	yuan dong li	19133
 热板	re ban	18744
 玩车	wan che	18304
-进气格栅	jin qi ge zha	18203
+进气格栅	jin qi ge shan	18203
 铆钉	mao ding	18008
 工位	gong wei	17230
 发动机转速	fa dong ji zhuan su	17139
@@ -141,7 +141,7 @@ sort: by_weight
 年度车	nian du che	14391
 颂歌	song ge	14343
 远舰	yuan jian	14324
-山地车	shan di che	14312
+山地车	shan de che	14312
 华夏二手车	hua xia er shou che	14222
 利欧	li ou	13981
 镀锌板	du xin ban	13640
@@ -151,7 +151,7 @@ sort: by_weight
 维修厂	wei xiu chang	12558
 领航员	ling hang yuan	12279
 大包围	da bao wei	12200
-乙炔	yi gui	12181
+乙炔	yi que	12181
 前围	qian wei	12085
 练习曲	lian xi qu	11858
 驾校一点通	jia xiao yi dian tong	11613
@@ -171,7 +171,7 @@ sort: by_weight
 志翔	zhi xiang	10130
 别克凯越	bie ke kai yue	10125
 前挡风玻璃	qian dang feng bo li	10058
-恒温空调	heng wen kong tiao	9948
+恒温空调	heng wen kong diao	9948
 支持环	zhi chi huan	9888
 膜片	mo pian	9805
 汽车贸易有限公司	qi che mao yi you xian gong si	9803
@@ -208,7 +208,7 @@ sort: by_weight
 冷媒	leng mei	6771
 远光灯	yuan guang deng	6730
 无钥匙	wu yao shi	6702
-前格栅	qian ge zha	6657
+前格栅	qian ge shan	6657
 直列四缸	zhi lie si gang	6652
 卤素灯	lu su deng	6621
 纸巾盒	zhi jin he	6577
@@ -263,11 +263,11 @@ sort: by_weight
 仿桃木	fang tao mu	4470
 清障车	qing zhang che	4449
 牛腿	niu tui	4389
-手动空调	shou dong kong tiao	4304
+手动空调	shou dong kong diao	4304
 四轮碟刹	si lun die sha	4288
 中盖	zhong gai	4256
 铅块	qian kuai	4255
-最小离地间隙	zui xiao li de jian xi	4239
+最小离地间隙	zui xiao li di jian xi	4239
 一汽奥迪	yi qi ao di	4212
 风骏	feng jun	4207
 全球鹰	quan qiu ying	4149
@@ -276,7 +276,7 @@ sort: by_weight
 燃烧过程	ran shao guo cheng	3923
 亚星客车	ya xing ke che	3870
 江南奥拓	jiang nan ao ta	3843
-长丰猎豹	zhang feng lie bao	3792
+长丰猎豹	chang feng lie bao	3792
 车载电脑	che zai dian nao	3782
 保险杆	bao xian gan	3732
 中国汽车工程学会	zhong guo qi che gong cheng xue hui	3711
@@ -311,7 +311,7 @@ sort: by_weight
 汽车影音	qi che ying yin	2951
 组合表	zu he biao	2908
 双面胶带	shuang mian jiao dai	2828
-新大地	xin da de	2815
+新大地	xin da di	2815
 汽车零部件有限公司	qi che ling bu jian you xian gong si	2765
 预紧式安全带	yu jin shi an quan dai	2734
 车门把手	che men ba shou	2665
@@ -344,7 +344,7 @@ sort: by_weight
 圆锥滚子轴承	yuan zhui gun zi zhou cheng	2060
 电动玻璃	dian dong bo li	2059
 车载电台	che zai dian tai	2008
-空调滤芯	kong tiao lv xin	1992
+空调滤芯	kong diao lv xin	1992
 东风康明斯	dong feng kang ming si	1968
 翱龙	ao long	1963
 江铃陆风	jiang ling lu feng	1943
@@ -374,7 +374,7 @@ sort: by_weight
 非承载式车身	fei cheng zai shi che shen	1683
 该车主	gai che zhu	1682
 防眩目后视镜	fang xuan mu hou shi jing	1678
-戴姆勒克莱斯勒	dai mu lei ke lai si lei	1672
+戴姆勒克莱斯勒	dai mu lei ke lai si le	1672
 易熄火	yi xi huo	1658
 道奇凯领	dao qi kai ling	1655
 丰田陆地巡洋舰	feng tian lu di xun yang jian	1629
@@ -391,7 +391,7 @@ sort: by_weight
 后制动	hou zhi dong	1560
 叶片泵	ye pian beng	1559
 下护板	xia hu ban	1545
-克莱斯勒大捷龙	ke lai si lei da jie long	1541
+克莱斯勒大捷龙	ke lai si le da jie long	1541
 汽车覆盖件	qi che fu gai jian	1530
 江铃集团	jiang ling ji tuan	1528
 汽车抛锚	qi che pao mao	1496
@@ -492,7 +492,7 @@ sort: by_weight
 从动轮	cong dong lun	872
 露营车	lu ying che	868
 强制通风	qiang zhi tong feng	867
-下格栅	xia ge zha	867
+下格栅	xia ge shan	867
 雷诺梅甘娜	lei nuo mei gan na	866
 储液罐	chu ye guan	864
 甲壳虫汽车	jia qiao chong qi che	854
@@ -535,7 +535,7 @@ sort: by_weight
 车门扶手	che men fu shou	730
 林肯城市	lin ken cheng shi	730
 天马英雄	tian ma ying xiong	729
-空调泵	kong tiao beng	728
+空调泵	kong diao beng	728
 日产奇骏	ri chan qi jun	724
 飞碟汽车	fei die qi che	711
 多楔带	duo xie dai	708
@@ -550,7 +550,7 @@ sort: by_weight
 电动玻璃升降器	dian dong bo li sheng jiang qi	677
 全车隔音	quan che ge yin	672
 大陆汽车俱乐部	da lu qi che ju le bu	667
-空调管路	kong tiao guan lu	666
+空调管路	kong diao guan lu	666
 后翼子板	hou yi zi ban	666
 前阅读灯	qian yue du deng	664
 道奇公羊	dao qi gong yang	662
@@ -561,7 +561,7 @@ sort: by_weight
 变速器结构原理	bian su qi jie gou yuan li	645
 英特拉格斯赛道	ying te la ge si sai dao	644
 后保险杆	hou bao xian gan	643
-汽车空调压缩机	qi che kong tiao ya suo ji	640
+汽车空调压缩机	qi che kong diao ya suo ji	640
 车门框	che men kuang	634
 自动变速箱油	zi dong bian su xiang you	632
 直列发动机	zhi lie fa dong ji	631
@@ -584,7 +584,7 @@ sort: by_weight
 发动机防盗锁止系统	fa dong ji fang dao suo zhi xi tong	575
 自动排挡	zi dong pai dang	573
 起亚霸锐	qi ya ba rui	571
-大灯高度可调	da deng gao du ke diao	571
+大灯高度可调	da deng gao du ke tiao	571
 东风悦达起亚狮跑	dong feng yue da qi ya shi pao	567
 火烧车	huo shao che	560
 曲轴位置传感器	qu zhou wei zhi chuan gan qi	560
@@ -631,7 +631,7 @@ sort: by_weight
 德国喜力士	de guo xi li shi	478
 斯柯达欧雅	si ke da ou ya	475
 盲点信息系统	mang dian xin xi xi tong	475
-弹簧垫圈	tan huang dian juan	474
+弹簧垫圈	tan huang dian quan	474
 奔驰车队	ben chi che dui	472
 一汽丰越	yi qi feng yue	472
 儿童乘车安全	er tong cheng che an quan	471
@@ -681,7 +681,7 @@ sort: by_weight
 扭矩扳手	niu ju ban shou	377
 福特蒙迪欧致胜	fu te meng di ou zhi sheng	377
 钥匙开关	yao shi kai guan	375
-赵公口长途汽车站	zhao gong kou chang tu qi che zhan	373
+赵公口长途汽车站	zhao gong kou zhang tu qi che zhan	373
 福建戴姆勒	fu jian dai mu lei	372
 感载比例阀	gan zai bi li fa	372
 自卸翻斗车	zi xie fan dou che	371
@@ -747,7 +747,7 @@ sort: by_weight
 圆柱销	yuan zhu xiao	280
 冷车起动	leng che qi dong	278
 新乐风	xin le feng	277
-空调滤网	kong tiao lv wang	274
+空调滤网	kong diao lv wang	274
 尾气分析仪	wei qi fen xi yi	272
 北京奔驰戴克	bei jing ben chi dai ke	267
 更换电瓶	geng huan dian ping	262
@@ -848,7 +848,7 @@ sort: by_weight
 尺寸不合格	chi cun bu he ge	183
 一二档	yi er dang	182
 叶轮泵	ye lun beng	181
-汽车行业动态	qi che hang ye dong tai	181
+汽车行业动态	qi che xing ye dong tai	181
 右前叶	you qian ye	181
 摩托车维修工	mo tuo che wei xiu gong	181
 轮边减速器	lun bian jian su qi	178
@@ -874,7 +874,7 @@ sort: by_weight
 自动感应大灯	zi dong gan ying da deng	158
 南京菲亚特西耶那	nan jing fei ya te xi ye na	157
 维多利亚皇冠	wei duo li ya huang guan	156
-长安汽车工程研究院	chang an qi che gong cheng yan jiu yuan	156
+长安汽车工程研究院	zhang an qi che gong cheng yan jiu yuan	156
 排气制动	pai qi zhi dong	155
 汽车台	qi che tai	153
 封闭货车	feng bi huo che	148
@@ -924,7 +924,7 @@ sort: by_weight
 四轮动平衡	si lun dong ping heng	113
 汽车遥控钥匙	qi che yao kong yao shi	113
 前钢板	qian gang ban	113
-自动空调控制系统	zi dong kong tiao kong zhi xi tong	113
+自动空调控制系统	zi dong kong diao kong zhi xi tong	113
 电动升降器	dian dong sheng jiang qi	113
 触媒转换器	chu mei zhuan huan qi	111
 隔音产品	ge yin chan pin	111
@@ -961,7 +961,7 @@ sort: by_weight
 直接档	zhi jie dang	95
 调漆设备	diao qi she bei	95
 半圆键	ban yuan jian	94
-克莱斯勒交叉火力	ke lai si lei jiao cha huo li	93
+克莱斯勒交叉火力	ke lai si le jiao cha huo li	93
 汽车品牌营销	qi che pin pai ying xiao	92
 火炮牵引车	huo pao qian yin che	91
 挂不上档	gua bu shang dang	91
@@ -971,7 +971,7 @@ sort: by_weight
 郑州威佳专营店	zheng zhou wei jia zhuan ying dian	88
 红喜力	hong xi li	88
 胎侧胶	tai ce jiao	88
-负极接地	fu ji jie de	88
+负极接地	fu ji jie di	88
 浇注速度	jiao zhu su du	87
 软连接牵引	ruan lian jie qian yin	87
 置换补贴	zhi huan bu tie	87
@@ -1093,8 +1093,8 @@ sort: by_weight
 手动变速箱油	shou dong bian su xiang you	49
 螺母垫片	luo mu dian pian	48
 优科豪马轮胎	you ke hao ma lun tai	48
-北汽角斗士	bei qi jue dou shi	48
-保险杠格栅	bao xian gang ge zha	48
+北汽角斗士	bei qi jiao dou shi	48
+保险杠格栅	bao xian gang ge shan	48
 全车垫	quan che dian	48
 下边梁	xia bian liang	48
 接车单	jie che dan	48
@@ -1159,7 +1159,7 @@ sort: by_weight
 门胶条	men jiao tiao	37
 雨刮精	yu gua jing	37
 中客华北	zhong ke hua bei	37
-空调压缩机皮带	kong tiao ya suo ji pi dai	37
+空调压缩机皮带	kong diao ya suo ji pi dai	37
 转向横拉杆球头	zhuan xiang heng la gan qiu tou	37
 出炉温度	chu lu wen du	36
 神农驾	shen nong jia	36
@@ -1176,7 +1176,7 @@ sort: by_weight
 机油感应塞	ji you gan ying sai	34
 车载影碟机	che zai ying die ji	34
 新车谍报	xin che die bao	34
-空调高压管	kong tiao gao ya guan	33
+空调高压管	kong diao gao ya guan	33
 北京奔驰铂锐	bei jing ben chi bo rui	33
 气门室罩盖	qi men shi zhao gai	33
 全国汽车运动管理规定	quan guo qi che yun dong guan li gui ding	33
@@ -1202,7 +1202,7 @@ sort: by_weight
 阶背式轿车	jie bei shi jiao che	29
 日产公爵王	ri chan gong jue wang	29
 远光指示灯	yuan guang zhi shi deng	28
-长丰猎豹黑金刚	zhang feng lie bao hei jin gang	28
+长丰猎豹黑金刚	chang feng lie bao hei jin gang	28
 左后门玻璃	zuo hou men bo li	28
 后饰板	hou shi ban	28
 弓子板	gong zi ban	28
@@ -1219,7 +1219,7 @@ sort: by_weight
 一汽客车有限公司	yi qi ke che you xian gong si	26
 新一代普力马	xin yi dai pu li ma	26
 非全尺寸备胎	fei quan chi cun bei tai	25
-粘性联轴节	zhan xing lian zhou jie	25
+粘性联轴节	nian xing lian zhou jie	25
 车内温度传感器	che nei wen du chuan gan qi	25
 四行程引擎	si xing cheng yin qing	25
 活塞肖	huo sai xiao	25
@@ -1285,7 +1285,7 @@ sort: by_weight
 后桥短轴	hou qiao duan zhou	19
 副驾驶位气囊	fu jia shi wei qi nang	19
 超重型汽车列车	chao zhong xing qi che lie che	19
-粘性偶合器	zhan xing ou he qi	19
+粘性偶合器	nian xing ou he qi	19
 中国汽摩频道	zhong guo qi mo pin dao	19
 打磨抛光设备	da mo pao guang she bei	18
 左侧窗玻璃	zuo ce chuang bo li	18
@@ -1368,7 +1368,7 @@ sort: by_weight
 大灯框	da deng kuang	12
 稀薄燃烧发动机	xi bo ran shao fa dong ji	12
 转向齿轮泵	zhuan xiang chi lun beng	11
-空调涨紧轮	kong tiao zhang jin lun	11
+空调涨紧轮	kong diao zhang jin lun	11
 左右壳	zuo you ke	11
 福田迷迪	fu tian mi di	11
 暖风胶管	nuan feng jiao guan	11
@@ -1422,7 +1422,7 @@ sort: by_weight
 车门开度限位器	che men kai du xian wei qi	9
 转向灯灯泡	zhuan xiang deng deng pao	9
 路环小型赛车场	lu huan xiao xing sai che chang	8
-连杆校正器	lian gan jiao zheng qi	8
+连杆校正器	lian gan xiao zheng qi	8
 汽车零部件整合	qi che ling bu jian zheng he	8
 叶子板内衬	ye zi ban nei chen	8
 电子真空泵	dian zi zhen kong beng	8
@@ -1465,7 +1465,7 @@ sort: by_weight
 液压式离合器系统	ye ya shi li he qi xi tong	6
 汽车启动电源	qi che qi dong dian yuan	6
 变速箱第一轴	bian su xiang di yi zhou	6
-汽车最小离地间隙	qi che zui xiao li de jian xi	6
+汽车最小离地间隙	qi che zui xiao li di jian xi	6
 六角法兰面螺母	liu jiao fa lan mian luo mu	6
 从动圆柱齿	cong dong yuan zhu chi	6
 换挡锁止电磁阀	huan dang suo zhi dian ci fa	6
@@ -1514,7 +1514,7 @@ sort: by_weight
 水箱副水壶	shui xiang fu shui hu	4
 制动灯开关总成	zhi dong deng kai guan zong cheng	4
 三效催化器	san xiao cui hua qi	4
-全天候空调系统	quan tian hou kong tiao xi tong	4
+全天候空调系统	quan tian hou kong diao xi tong	4
 谐振箱	xie zhen xiang	4
 全息座舱	quan xi zuo cang	4
 油泵单向阀	you beng dan xiang fa	4
@@ -1530,7 +1530,7 @@ sort: by_weight
 路安汽车俱乐部	lu an qi che ju le bu	4
 格雷姆林	ge lei mu lin	4
 机盖铰链	ji gai jiao lian	4
-座椅调整器	zuo yi tiao zheng qi	4
+座椅调整器	zuo yi diao zheng qi	4
 汽车机电技术	qi che ji dian ji shu	4
 墨绿珍珠	mo lv zhen zhu	4
 圆锥主动齿轮轴承	yuan zhui zhu dong chi lun zhou cheng	4
@@ -1542,10 +1542,10 @@ sort: by_weight
 欧亚车业	ou ya che ye	4
 右角灯	you jiao deng	4
 下悬挂胶套	xia xuan gua jiao tao	4
-克莱斯勒指挥官	ke lai si lei zhi hui guan	4
+克莱斯勒指挥官	ke lai si le zhi hui guan	4
 温度传感器线束	wen du chuan gan qi xian shu	3
-汽车平顺性随机输入行驶试验	qi che ping shun xing sui ji shu ru hang shi shi yan	3
-印地方程式赛	yin di fang cheng shi sai	3
+汽车平顺性随机输入行驶试验	qi che ping shun xing sui ji shu ru xing shi shi yan	3
+印地方程式赛	yin de fang cheng shi sai	3
 油中宝	you zhong bao	3
 汽车轮距	qi che lun ju	3
 汽车梦工场	qi che meng gong chang	3
@@ -1584,13 +1584,13 @@ sort: by_weight
 轮边总成	lun bian zong cheng	3
 中空充钠气门	zhong kong chong na qi men	3
 气门调整螺丝	qi men tiao zheng luo si	3
-空调皮带张紧轮	kong tiao pi dai zhang jin lun	3
+空调皮带张紧轮	kong diao pi dai zhang jin lun	3
 初生石墨	chu sheng shi mo	3
 驻车制动指示灯	zhu che zhi dong zhi shi deng	3
-长丰猎豹骐菱	zhang feng lie bao qi ling	3
+长丰猎豹骐菱	chang feng lie bao qi ling	3
 保险继电器	bao xian ji dian qi	3
 汽车扭矩	qi che niu ju	3
-汽车平顺性单脉冲输入行驶试验	qi che ping shun xing dan mai chong shu ru hang shi shi yan	3
+汽车平顺性单脉冲输入行驶试验	qi che ping shun xing dan mai chong shu ru xing shi shi yan	3
 液压油压力表	ye ya you ya li biao	3
 印第安纳赛道	yin di an na sai dao	3
 嘉华起亚	jia hua qi ya	3
@@ -1614,7 +1614,7 @@ sort: by_weight
 换气门座圈	huan qi men zuo quan	2
 鼓风机壳	gu feng ji ke	2
 摩托车防晒垫	mo tuo che fang shai dian	2
-空调暖风开关	kong tiao nuan feng kai guan	2
+空调暖风开关	kong diao nuan feng kai guan	2
 半轴齿轮垫	ban zhou chi lun dian	2
 残缺类缺陷	can que lei que xian	2
 驾驶室减震器	jia shi shi jian zhen qi	2
@@ -1651,11 +1651,11 @@ sort: by_weight
 钢板垫块	gang ban dian kuai	2
 变扭器切割设备	bian niu qi qie ge she bei	2
 野马福特	ye ma fu te	2
-标准型弹簧垫圈	biao zhun xing tan huang dian juan	2
+标准型弹簧垫圈	biao zhun xing tan huang dian quan	2
 直拉杆接头总成	zhi la gan jie tou zong cheng	2
 制动鼓后	zhi dong gu hou	2
 充电卡子	chong dian qia zi	2
-格栅保险杠	ge zha bao xian gang	2
+格栅保险杠	ge shan bao xian gang	2
 浙江瑞立集团公司	zhe jiang rui li ji tuan gong si	2
 摩纳罗	mo na luo	2
 尾灯支架	wei deng zhi jia	2

@@ -78,7 +78,7 @@ sort: by_weight
 违法行为	wei fa xing wei	310316
 未成年人	wei cheng nian ren	309061
 公司董事会	gong si dong shi hui	302009
-没收	mo shou	298385
+没收	mei shou	298385
 有车	you che	293418
 有效期	you xiao qi	285186
 维权	wei quan	282691
@@ -286,7 +286,7 @@ sort: by_weight
 假药	jia yao	45999
 赔礼道歉	pei li dao qian	45917
 稳步增长	wen bu zeng zhang	45319
-地方法	di fang fa	45015
+地方法	de fang fa	45015
 法制办	fa zhi ban	44625
 小产权房	xiao chan quan fang	44545
 要约收购	yao yue shou gou	43399
@@ -342,7 +342,7 @@ sort: by_weight
 国家产业政策	guo jia chan ye zheng ce	33223
 国家开发银行	guo jia kai fa yin hang	32983
 慰问金	wei wen jin	32741
-没收违法所得	mo shou wei fa suo de	32710
+没收违法所得	mei shou wei fa suo de	32710
 保险金额	bao xian jin e	32525
 约瑟夫	yue se fu	32368
 扭亏为盈	niu kui wei ying	32231
@@ -386,7 +386,7 @@ sort: by_weight
 承包经营权	cheng bao jing ying quan	25845
 职工代表大会	zhi gong dai biao da hui	25692
 会计法	kuai ji fa	25596
-不称职	bu chen zhi	25383
+不称职	bu cheng zhi	25383
 下岗工人	xia gang gong ren	25380
 规划许可证	gui hua xu ke zheng	25233
 依法查处	yi fa cha chu	25214
@@ -421,7 +421,7 @@ sort: by_weight
 保险事故	bao xian shi gu	21655
 软着陆	ruan zhuo lu	21597
 执法行为	zhi fa xing wei	21562
-土地管理法	tu di guan li fa	21498
+土地管理法	tu de guan li fa	21498
 可转换债券	ke zhuan huan zhai quan	21453
 规模效益	gui mo xiao yi	21298
 土地承包经营权	tu di cheng bao jing ying quan	21223
@@ -466,7 +466,7 @@ sort: by_weight
 引咎辞职	yin jiu ci zhi	17963
 安全生产法	an quan sheng chan fa	17962
 专有技术	zhuan you ji shu	17708
-房地产法	fang di chan fa	17443
+房地产法	fang de chan fa	17443
 抵偿	di chang	17433
 违法广告	wei fa guang gao	17396
 制空权	zhi kong quan	17317
@@ -533,7 +533,7 @@ sort: by_weight
 增值税发票	zeng zhi shui fa piao	14278
 监视居住	jian shi ju zhu	14210
 项目融资	xiang mu rong zi	14183
-没收财产	mo shou cai chan	14157
+没收财产	mei shou cai chan	14157
 一夫一妻制	yi fu yi qi zhi	14138
 野生植物	ye sheng zhi wu	14136
 信用保险	xin yong bao xian	14119
@@ -570,7 +570,7 @@ sort: by_weight
 上市公司收购	shang shi gong si shou gou	12810
 保险监管	bao xian jian guan	12797
 军队转业干部	jun dui zhuan ye gan bu	12783
-国家工商行政管理局	guo jia gong shang hang zheng guan li ju	12773
+国家工商行政管理局	guo jia gong shang xing zheng guan li ju	12773
 医疗改革	yi liao gai ge	12738
 财产分割	cai chan fen ge	12632
 居住权	ju zhu quan	12605
@@ -626,7 +626,7 @@ sort: by_weight
 挪用公款罪	nuo yong gong kuan zui	10784
 垄断行为	long duan xing wei	10768
 婚前财产	hun qian cai chan	10768
-非银行金融机构	fei yin hang jin rong ji gou	10706
+非银行金融机构	fei yin xing jin rong ji gou	10706
 强制性规定	qiang zhi xing gui ding	10683
 农转非	nong zhuan fei	10676
 乘人之危	cheng ren zhi wei	10659
@@ -663,7 +663,7 @@ sort: by_weight
 继承法	ji cheng fa	9602
 转口贸易	zhuan kou mao yi	9540
 急要	ji yao	9475
-敲诈勒索罪	qiao zha le suo zui	9455
+敲诈勒索罪	qiao zha lei suo zui	9455
 行贿罪	xing hui zui	9438
 台规	tai gui	9395
 聚众斗殴	ju zhong dou ou	9369
@@ -754,7 +754,7 @@ sort: by_weight
 自治机关	zi zhi ji guan	7292
 盈余公积金	ying yu gong ji jin	7226
 非法转让	fei fa zhuan rang	7217
-产品标识	chan pin biao zhi	7207
+产品标识	chan pin biao shi	7207
 台湾事务办公室	tai wan shi wu ban gong shi	7199
 医疗事故鉴定	yi liao shi gu jian ding	7180
 瓶颈制约	ping jing zhi yue	7151
@@ -796,7 +796,7 @@ sort: by_weight
 国有独资企业	guo you du zi qi ye	6595
 重置成本	zhong zhi cheng ben	6586
 捉拿归案	zhuo na gui an	6585
-标的额	biao di e	6565
+标的额	biao de e	6565
 支农惠农政策	zhi nong hui nong zheng ce	6560
 职务行为	zhi wu xing wei	6557
 道路交通管理	dao lu jiao tong guan li	6547
@@ -822,7 +822,7 @@ sort: by_weight
 再保险公司	zai bao xian gong si	6292
 出让国有土地使用权	chu rang guo you tu di shi yong quan	6278
 反洗钱法	fan xi qian fa	6267
-中国注册会计师协会	zhong guo zhu ce kuai ji shi xie hui	6266
+中国注册会计师协会	zhong guo zhu ce hui ji shi xie hui	6266
 上位法	shang wei fa	6220
 挤占挪用	ji zhan nuo yong	6215
 回避制度	hui bi zhi du	6194
@@ -882,7 +882,7 @@ sort: by_weight
 履行地	lv xing de	5334
 网络赌博	wang luo du bo	5328
 保护现场	bao hu xian chang	5325
-中华人民共和国土地管理法	zhong hua ren min gong he guo tu di guan li fa	5321
+中华人民共和国土地管理法	zhong hua ren min gong he guo tu de guan li fa	5321
 可再生能源法	ke zai sheng neng yuan fa	5309
 经营信息	jing ying xin xi	5291
 婚生子女	hun sheng zi nv	5281
@@ -969,7 +969,7 @@ sort: by_weight
 房地产中介机构	fang di chan zhong jie ji gou	4334
 非全日制用工	fei quan ri zhi yong gong	4323
 残疾赔偿金	can ji pei chang jin	4307
-房地产权属	fang di chan quan shu	4306
+房地产权属	fang de chan quan shu	4306
 特殊利益集团	te shu li yi ji tuan	4300
 协议无效	xie yi wu xiao	4289
 委托开发	wei tuo kai fa	4286
@@ -1169,7 +1169,7 @@ sort: by_weight
 犯罪未遂	fan zui wei sui	2901
 代理收付款项	dai li shou fu kuan xiang	2900
 全面推进依法行政实施纲要	quan mian tui jin yi fa xing zheng shi shi gang yao	2887
-泄露国家机密	xie lou guo jia ji mi	2882
+泄露国家机密	xie lu guo jia ji mi	2882
 中国烟草总公司	zhong guo yan cao zong gong si	2879
 继子女	ji zi nv	2877
 加工合同	jia gong he tong	2867
@@ -1493,7 +1493,7 @@ sort: by_weight
 艾滋病防治条例	ai zi bing fang zhi tiao li	1637
 完全知识产权	wan quan zhi shi chan quan	1634
 各委员会主任	ge wei yuan hui zhu ren	1634
-土地交易价格	tu di jiao yi jia ge	1633
+土地交易价格	tu de jiao yi jia ge	1633
 开膛手杰克	kai tang shou jie ke	1631
 聚众斗殴罪	ju zhong dou ou zui	1627
 行政强制执行	xing zheng qiang zhi zhi xing	1620
@@ -1686,7 +1686,7 @@ sort: by_weight
 共同危险行为	gong tong wei xian xing wei	1221
 产权登记面积	chan quan deng ji mian ji	1216
 拨改贷	bo gai dai	1216
-地产权属登记	di chan quan shu deng ji	1214
+地产权属登记	de chan quan shu deng ji	1214
 潜在资源	qian zai zi yuan	1210
 全民所有制工业企业	quan min suo you zhi gong ye qi ye	1208
 焦点网谈	jiao dian wang tan	1206
@@ -1698,7 +1698,7 @@ sort: by_weight
 未成年罪犯	wei cheng nian zui fan	1195
 国家法官学院	guo jia fa guan xue yuan	1194
 兼职收入	jian zhi shou ru	1193
-土地管理法实施条例	tu di guan li fa shi shi tiao li	1190
+土地管理法实施条例	tu de guan li fa shi shi tiao li	1190
 完全行为能力	wan quan xing wei neng li	1186
 中华人民共和国民办教育促进法	zhong hua ren min gong he guo min ban jiao yu cu jin fa	1186
 漂流物	piao liu wu	1185
@@ -1749,7 +1749,7 @@ sort: by_weight
 权利瑕疵	quan li xia ci	1122
 人大代表议案	ren da dai biao yi an	1121
 机械工业局	ji xie gong ye ju	1118
-房地产权登记	fang di chan quan deng ji	1116
+房地产权登记	fang de chan quan deng ji	1116
 社保政策	she bao zheng ce	1109
 一致表决	yi zhi biao jue	1109
 现场笔录	xian chang bi lu	1107
@@ -1866,7 +1866,7 @@ sort: by_weight
 国家恐怖主义	guo jia kong bu zhu yi	958
 产品设计图	chan pin she ji tu	958
 仓单持有人	cang dan chi you ren	956
-诉讼标的额	su song biao di e	955
+诉讼标的额	su song biao de e	955
 平等就业权	ping deng jiu ye quan	955
 兽药管理条例	shou yao guan li tiao li	951
 中华人民共和国农业部	zhong hua ren min gong he guo nong ye bu	951
@@ -1885,7 +1885,7 @@ sort: by_weight
 恶意占有	e yi zhan you	929
 农村新型合作医疗制度	nong cun xin xing he zuo yi liao zhi du	929
 全员劳动合同制	quan yuan lao dong he tong zhi	928
-没收非法财物	mo shou fei fa cai wu	927
+没收非法财物	mei shou fei fa cai wu	927
 为政以德	wei zheng yi de	927
 金钱赔偿	jin qian pei chang	921
 污水综合排放标准	wu shui zong he pai fang biao zhun	920
@@ -1917,7 +1917,7 @@ sort: by_weight
 雅尔塔协定	ya er ta xie ding	883
 中英联合声明	zhong ying lian he sheng ming	883
 药事管理与法规	yao shi guan li yu fa gui	883
-泄露内幕信息罪	xie lou nei mu xin xi zui	882
+泄露内幕信息罪	xie lu nei mu xin xi zui	882
 审查案件	shen cha an jian	881
 价格指标	jia ge zhi biao	881
 安全检查员	an quan jian cha yuan	879
@@ -2088,7 +2088,7 @@ sort: by_weight
 独资经营企业	du zi jing ying qi ye	688
 中国反垄断法	zhong guo fan long duan fa	687
 国务院证券委员会	guo wu yuan zheng quan wei yuan hui	687
-行纪合同	xing ji he tong	686
+行纪合同	hang ji he tong	686
 国家卫生城市标准	guo jia wei sheng cheng shi biao zhun	684
 公债券	gong zhai quan	683
 可自由兑换货币	ke zi you dui huan huo bi	683
@@ -2141,7 +2141,7 @@ sort: by_weight
 董事会权限	dong shi hui quan xian	650
 空白背书	kong bai bei shu	649
 论文抄袭	lun wen chao xi	649
-中华人民共和国土地管理法实施条例	zhong hua ren min gong he guo tu di guan li fa shi shi tiao li	649
+中华人民共和国土地管理法实施条例	zhong hua ren min gong he guo tu de guan li fa shi shi tiao li	649
 非居民个人	fei ju min ge ren	649
 中华人民共和国中小企业促进法	zhong hua ren min gong he guo zhong xiao qi ye cu jin fa	648
 默示担保	mo shi dan bao	647
@@ -2217,7 +2217,7 @@ sort: by_weight
 福建泉中律师事务所	fu jian quan zhong lv shi shi wu suo	594
 药品流通监督管理办法	yao pin liu tong jian du guan li ban fa	593
 特定义务	te ding yi wu	591
-房地产权属档案	fang di chan quan shu dang an	591
+房地产权属档案	fang de chan quan shu dang an	591
 住宅权	zhu zhai quan	589
 哑吧英语	ya ba ying yu	588
 外轮代理公司	wai lun dai li gong si	588
@@ -2412,7 +2412,7 @@ sort: by_weight
 甲醛中毒	jia quan zhong du	463
 非法性行为	fei fa xing xing wei	462
 劳动保险金	lao dong bao xian jin	462
-化妆品标识	hua zhuang pin biao zhi	460
+化妆品标识	hua zhuang pin biao shi	460
 中华人民共和国农村土地承包法	zhong hua ren min gong he guo nong cun tu di cheng bao fa	460
 反渎局	fan du ju	459
 世界知识产权组织版权条约	shi jie zhi shi chan quan zu zhi ban quan tiao yue	459
@@ -2449,7 +2449,7 @@ sort: by_weight
 打击跨国有组织犯罪公约	da ji kua guo you zu zhi fan zui gong yue	440
 内幕交易者	nei mu jiao yi zhe	439
 最新工伤处理操作实务	zui xin gong shang chu li cao zuo shi wu	438
-农村土地承包合同	nong cun tu di cheng bao he tong	438
+农村土地承包合同	nong cun tu de cheng bao he tong	438
 大事纪	da shi ji	437
 地方行政机关	di fang xing zheng ji guan	437
 忠诚协议	zhong cheng xie yi	437
@@ -2552,7 +2552,7 @@ sort: by_weight
 房屋拆迁资格证书	fang wu chai qian zi ge zheng shu	388
 执行终结	zhi xing zhong jie	388
 一般过失	yi ban guo shi	388
-苏泊尔并购案	su po er bing gou an	387
+苏泊尔并购案	su bo er bing gou an	387
 司户参军	si hu can jun	386
 企业产权界定	qi ye chan quan jie ding	386
 宅基地证	zhai ji di zheng	386
@@ -2650,7 +2650,7 @@ sort: by_weight
 城市规划编制办法	cheng shi gui hua bian zhi ban fa	341
 权益回报率	quan yi hui bao lv	341
 侵犯公民民主权利	qin fan gong min min zhu quan li	341
-非法占用农用地罪	fei fa zhan yong nong yong di zui	340
+非法占用农用地罪	fei fa zhan yong nong yong de zui	340
 信贷合同	xin dai he tong	338
 广播电视法	guang bo dian shi fa	338
 有害食品罪	you hai shi pin zui	337
@@ -2771,7 +2771,7 @@ sort: by_weight
 商业银行金融创新指引	shang ye yin hang jin rong chuang xin zhi yin	294
 价值形成过程	jia zhi xing cheng guo cheng	294
 媒氏	mei shi	294
-毛地出让	mao de chu rang	293
+毛地出让	mao di chu rang	293
 成品油市场管理暂行办法	cheng pin you shi chang guan li zan xing ban fa	293
 房地产销售策划	fang di chan xiao shou ce hua	293
 机构编制监督检查工作暂行规定	ji gou bian zhi jian du jian cha gong zuo zan xing gui ding	292
@@ -2823,7 +2823,7 @@ sort: by_weight
 闲置土地处理办法	xian zhi tu di chu li ban fa	279
 著作权许可使用合同	zhu zuo quan xu ke shi yong he tong	278
 人禽流感诊疗方案	ren qin liu gan zhen liao fang an	278
-能源效率标识管理办法	neng yuan xiao lv biao zhi guan li ban fa	278
+能源效率标识管理办法	neng yuan xiao lv biao shi guan li ban fa	278
 豪宅税	hao zhai shui	278
 国际重复征税	guo ji chong fu zheng shui	277
 协商一致原则	xie shang yi zhi yuan ze	277
@@ -2863,7 +2863,7 @@ sort: by_weight
 魏振瀛	wei zhen ying	267
 日尔曼法	ri er man fa	267
 规矩方圆	gui ju fang yuan	266
-农地承包经营权	nong de cheng bao jing ying quan	266
+农地承包经营权	nong di cheng bao jing ying quan	266
 国家进出口管理委员会	guo jia jin chu kou guan li wei yuan hui	265
 从债务人	cong zhai wu ren	265
 擅自采矿	shan zi cai kuang	265
@@ -3016,7 +3016,7 @@ sort: by_weight
 国家国防动员委员会	guo jia guo fang dong yuan wei yuan hui	227
 血液制品管理条例	xue ye zhi pin guan li tiao li	227
 血吸虫病防治条例	xue xi chong bing fang zhi tiao li	227
-汽车产品外部标识管理办法	qi che chan pin wai bu biao zhi guan li ban fa	227
+汽车产品外部标识管理办法	qi che chan pin wai bu biao shi guan li ban fa	227
 村民自治法	cun min zi zhi fa	226
 审计案例分析	shen ji an li fen xi	226
 强制性产品认证管理规定	qiang zhi xing chan pin ren zheng guan li gui ding	225
@@ -3094,7 +3094,7 @@ sort: by_weight
 谢伟俊	xie wei jun	211
 国际货物运输保险	guo ji huo wu yun shu bao xian	210
 食品安全风险监测	shi pin an quan feng xian jian ce	210
-泄露国家机密罪	xie lou guo jia ji mi zui	210
+泄露国家机密罪	xie lu guo jia ji mi zui	210
 商业贿赂罪	shang ye hui lu zui	210
 中国执业药师	zhong guo zhi ye yao shi	209
 外大陆架	wai da lu jia	209
@@ -3176,7 +3176,7 @@ sort: by_weight
 台谏官	tai jian guan	192
 土地发展权	tu di fa zhan quan	192
 德衡律师事务所	de heng lv shi shi wu suo	192
-国家进出口银行	guo jia jin chu kou yin hang	191
+国家进出口银行	guo jia jin chu kou yin xing	191
 任职试用期制度	ren zhi shi yong qi zhi du	191
 统配煤矿总公司	tong pei mei kuang zong gong si	190
 工业品买卖合同	gong ye pin mai mai he tong	190
@@ -3260,7 +3260,7 @@ sort: by_weight
 防雷减灾管理办法	fang lei jian zai guan li ban fa	174
 中国互联网行业自律公约	zhong guo hu lian wang hang ye zi lv gong yue	174
 住所搜查	zhu suo sou cha	174
-最长诉讼时效	zui zhang su song shi xiao	173
+最长诉讼时效	zui chang su song shi xiao	173
 投保险别	tou bao xian bie	173
 轻微缺陷	qing wei que xian	173
 期货从业人员管理办法	qi huo cong ye ren yuan guan li ban fa	173
@@ -3326,7 +3326,7 @@ sort: by_weight
 小野寺利孝	xiao ye si li xiao	162
 公布成文法	gong bu cheng wen fa	162
 直接侵权行为	zhi jie qin quan xing wei	161
-中国房地产法	zhong guo fang di chan fa	161
+中国房地产法	zhong guo fang de chan fa	161
 儿童玩具召回管理规定	er tong wan ju zhao hui guan li gui ding	161
 公司企业人员受贿罪	gong si qi ye ren yuan shou hui zui	161
 职能管辖	zhi neng guan xia	160
@@ -3338,7 +3338,7 @@ sort: by_weight
 律师执业行为规范	lv shi zhi ye xing wei gui fan	159
 处方药与非处方药分类管理办法	chu fang yao yu fei chu fang yao fen lei guan li ban fa	159
 国家司法考试应试规则	guo jia si fa kao shi ying shi gui ze	158
-会计信息产权	kuai ji xin xi chan quan	158
+会计信息产权	hui ji xin xi chan quan	158
 死刑不引渡	si xing bu yin du	158
 中华人民共和国飞行基本规则	zhong hua ren min gong he guo fei xing ji ben gui ze	158
 隐性腐败	yin xing fu bai	158
@@ -3401,7 +3401,7 @@ sort: by_weight
 牛津法律大辞典	niu jin fa lv da ci dian	149
 影子定价法	ying zi ding jia fa	149
 维也纳条约法公约	wei ye na tiao yue fa gong yue	149
-强制性能效标识制度	qiang zhi xing neng xiao biao zhi zhi du	149
+强制性能效标识制度	qiang zhi xing neng xiao biao shi zhi du	149
 扰乱市场秩序罪	rao luan shi chang zhi xu zui	149
 粮食流通监督检查暂行办法	liang shi liu tong jian du jian cha zan xing ban fa	149
 遗漏罪	yi lou zui	149
@@ -3418,7 +3418,7 @@ sort: by_weight
 北京市基本养老保险规定	bei jing shi ji ben yang lao bao xian gui ding	147
 成本加酬金合同	cheng ben jia chou jin he tong	147
 片面共犯	pian mian gong fan	146
-一律予以没收	yi lv yu yi mo shou	146
+一律予以没收	yi lv yu yi mei shou	146
 广东管理科学研究院	guang dong guan li ke xue yan jiu yuan	146
 非法委托	fei fa wei tuo	146
 军人道德规范	jun ren dao de gui fan	146
@@ -3476,7 +3476,7 @@ sort: by_weight
 判决定罪准确	pan jue ding zui zhun que	139
 会展知识产权	hui zhan zhi shi chan quan	139
 企业登记程序规定	qi ye deng ji cheng xu gui ding	139
-属地管辖权	shu de guan xia quan	139
+属地管辖权	shu di guan xia quan	139
 专利保护期限	zhuan li bao hu qi xian	139
 全国生态环境保护纲要	quan guo sheng tai huan jing bao hu gang yao	139
 全国博士后管理委员会	quan guo bo shi hou guan li wei yuan hui	139
@@ -3553,7 +3553,7 @@ sort: by_weight
 锅炉压力容器检验所	guo lu ya li rong qi jian yan suo	128
 竞业禁止合同	jing ye jin zhi he tong	128
 中小学校会计制度	zhong xiao xue xiao kuai ji zhi du	128
-会计专业职务试行条例	kuai ji zhuan ye zhi wu shi xing tiao li	128
+会计专业职务试行条例	hui ji zhuan ye zhi wu shi xing tiao li	128
 禁止流通物	jin zhi liu tong wu	128
 非领导职务层次	fei ling dao zhi wu ceng ci	128
 股票发行核准制	gu piao fa xing he zhun zhi	128
@@ -3584,7 +3584,7 @@ sort: by_weight
 阅卷笔录	yue juan bi lu	124
 普遍管辖权	pu bian guan xia quan	124
 存单挂失	cun dan gua shi	124
-食品标识管理规定	shi pin biao zhi guan li gui ding	124
+食品标识管理规定	shi pin biao shi guan li gui ding	124
 训政时期约法	xun zheng shi qi yue fa	124
 经济检察	jing ji jian cha	123
 新丰县公安局	xin feng xian gong an ju	123
@@ -3701,7 +3701,7 @@ sort: by_weight
 依法治党	yi fa zhi dang	108
 职业道德评价	zhi ye dao de ping jia	108
 电信业务经营许可证管理办法	dian xin ye wu jing ying xu ke zheng guan li ban fa	108
-土地权属变更登记	tu di quan shu bian geng deng ji	108
+土地权属变更登记	tu de quan shu bian geng deng ji	108
 中国专利制度	zhong guo zhuan li zhi du	108
 住房债券	zhu fang zhai quan	108
 洪范九畴	hong fan jiu chou	107
@@ -3762,7 +3762,7 @@ sort: by_weight
 全民所有企业	quan min suo you qi ye	100
 股东代位诉讼	gu dong dai wei su song	100
 代物清偿	dai wu qing chang	100
-化妆品标识管理规定	hua zhuang pin biao zhi guan li gui ding	100
+化妆品标识管理规定	hua zhuang pin biao shi guan li gui ding	100
 改好率	gai hao lv	100
 巴托鲁斯	ba tuo lu si	99
 湖北为维律师事务所	hu bei wei wei lv shi shi wu suo	99
@@ -4105,7 +4105,7 @@ sort: by_weight
 医诉	yi su	74
 女权主义法学	nv quan zhu yi fa xue	74
 法律程序文件	fa lv cheng xu wen jian	74
-国有财产法	guo you cai chan fa	74
+国有财产法	guo you cai can fa	74
 承包商付款担保	cheng bao shang fu kuan dan bao	73
 直接报告业务	zhi jie bao gao ye wu	73
 抵押担保债券	di ya dan bao zhai quan	73
@@ -4150,7 +4150,7 @@ sort: by_weight
 结算会员制度	jie suan hui yuan zhi du	71
 技术止损法	ji shu zhi sun fa	71
 哈尔滨市城市房屋拆迁管理暂行办法	ha er bin shi cheng shi fang wu chai qian guan li zan xing ban fa	71
-过失泄露国家秘密罪	guo shi xie lou guo jia mi mi zui	71
+过失泄露国家秘密罪	guo shi xie lu guo jia mi mi zui	71
 公有技术	gong you ji shu	71
 国际贸易条约	guo ji mao yi tiao yue	71
 公路建设市场管理办法	gong lu jian she shi chang guan li ban fa	71
@@ -4195,11 +4195,11 @@ sort: by_weight
 中国重要报纸全文数据库	zhong guo zhong yao bao zhi quan wen shu ju ku	68
 中国侨联法律顾问委员会	zhong guo qiao lian fa lv gu wen wei yuan hui	68
 原产地规则协议	yuan chan di gui ze xie yi	68
-法定财产重估增值	fa ding cai chan zhong gu zeng zhi	68
+法定财产重估增值	fa ding cai chan chong gu zeng zhi	68
 谦抑原则	qian yi yuan ze	68
 反洗钱工作部际联席会议制度	fan xi qian gong zuo bu ji lian xi hui yi zhi du	68
 集市交易税	ji shi jiao yi shui	68
-收入来源地税收管辖权	shou ru lai yuan di shui shou guan xia quan	68
+收入来源地税收管辖权	shou ru lai yuan de shui shou guan xia quan	68
 国际货币金融法	guo ji huo bi jin rong fa	68
 从法律行为	cong fa lv xing wei	68
 施塔姆勒	shi ta mu lei	68
@@ -4253,7 +4253,7 @@ sort: by_weight
 解约日	jie yue ri	65
 精神药品罪	jing shen yao pin zui	65
 中直机关事务管理局	zhong zhi ji guan shi wu guan li ju	64
-力拓案	li ta an	64
+力拓案	li tuo an	64
 五荒地	wu huang di	64
 辽宁省学校安全条例	liao ning sheng xue xiao an quan tiao li	64
 债务人迟延	zhai wu ren chi yan	64
@@ -4328,7 +4328,7 @@ sort: by_weight
 国际法渊源	guo ji fa yuan yuan	61
 劳动用工权	lao dong yong gong quan	61
 个人住房转按揭贷款	ge ren zhu fang zhuan an jie dai kuan	60
-广东省城镇房地产权登记条例	guang dong sheng cheng zhen fang di chan quan deng ji tiao li	60
+广东省城镇房地产权登记条例	guang dong sheng cheng zhen fang de chan quan deng ji tiao li	60
 东莞市经济适用住房管理办法	dong guan shi jing ji shi yong zhu fang guan li ban fa	60
 第二次答辩	di er ci da bian	60
 日常家事代理权	ri chang jia shi dai li quan	60
@@ -4405,13 +4405,13 @@ sort: by_weight
 珠海经济特区道路交通安全管理条例	zhu hai jing ji te qu dao lu jiao tong an quan guan li tiao li	57
 中欧法学院	zhong ou fa xue yuan	57
 货物所有权转移	huo wu suo you quan zhuan yi	57
-农村土地确权	nong cun tu di que quan	57
+农村土地确权	nong cun tu de que quan	57
 平等和谐发展	ping deng he xie fa zhan	57
 国家总动员法	guo jia zong dong yuan fa	57
 中小学校长培训规定	zhong xiao xue xiao zhang pei xun gui ding	57
 小额钱债审裁处	xiao e qian zhai shen cai chu	57
 附赠式有奖销售	fu zeng shi you jiang xiao shou	57
-国营企业调节税	guo ying qi ye tiao jie shui	57
+国营企业调节税	guo ying qi ye diao jie shui	57
 海事担保	hai shi dan bao	57
 承包主体资格	cheng bao zhu ti zi ge	57
 余姚市公安局	yu yao shi gong an ju	57
@@ -4515,7 +4515,7 @@ sort: by_weight
 监理工程师资格考试和注册试行办法	jian li gong cheng shi zi ge kao shi he zhu ce shi xing ban fa	52
 委任合同	wei ren he tong	52
 房地产前沿	fang di chan qian yan	52
-统一代码标识制度	tong yi dai ma biao zhi zhi du	52
+统一代码标识制度	tong yi dai ma biao shi zhi du	52
 神州华茂	shen zhou hua mao	52
 国内优先分保	guo nei you xian fen bao	52
 性功能司法鉴定	xing gong neng si fa jian ding	52
@@ -4554,7 +4554,7 @@ sort: by_weight
 建设工程勘察设计市场管理规	jian she gong cheng kan cha she ji shi chang guan li gui	51
 自动出口限制	zi dong chu kou xian zhi	50
 国际海运危险货物规则	guo ji hai yun wei xian huo wu gui ze	50
-非银行金融机构行政许可事项实施办法	fei yin hang jin rong ji gou xing zheng xu ke shi xiang shi shi ban fa	50
+非银行金融机构行政许可事项实施办法	fei yin xing jin rong ji gou xing zheng xu ke shi xiang shi shi ban fa	50
 违法提供出口退税凭证罪	wei fa ti gong chu kou tui shui ping zheng zui	50
 古希腊法	gu xi la fa	50
 房地产估价师执业资格制度暂行规定	fang di chan gu jia shi zhi ye zi ge zhi du zan xing gui ding	50
@@ -4612,8 +4612,8 @@ sort: by_weight
 前科报告制度	qian ke bao gao zhi du	48
 莫急于盗贼	mo ji yu dao zei	48
 治安行政法	zhi an xing zheng fa	48
-征用土地公告办法	zheng yong tu di gong gao ban fa	48
-直销行业服务网点设立管理办法	zhi xiao xing ye fu wu wang dian she li guan li ban fa	48
+征用土地公告办法	zheng yong tu de gong gao ban fa	48
+直销行业服务网点设立管理办法	zhi xiao hang ye fu wu wang dian she li guan li ban fa	48
 医疗器械标准管理办法	yi liao qi xie biao zhun guan li ban fa	48
 发展权利宣言	fa zhan quan li xuan yan	48
 中医坐堂医诊所管理办法	zhong yi zuo tang yi zhen suo guan li ban fa	48
@@ -4691,9 +4691,9 @@ sort: by_weight
 产品缺陷责任	chan pin que xian ze ren	45
 农作物种子生产经营许可证管理办法	nong zuo wu zhong zi sheng chan jing ying xu ke zheng guan li ban fa	45
 特殊风险保险	te shu feng xian bao xian	44
-厦门经济特区养犬管理办法	xia men jing ji te qu yang quan guan li ban fa	44
+厦门经济特区养犬管理办法	sha men jing ji te qu yang quan guan li ban fa	44
 出境水果检验检疫监督管理办法	chu jing shui guo jian yan jian yi jian du guan li ban fa	44
-重庆市征地补偿安置办法	chong qing shi zheng de bu chang an zhi ban fa	44
+重庆市征地补偿安置办法	chong qing shi zheng di bu chang an zhi ban fa	44
 委托书收购	wei tuo shu shou gou	44
 住房公积金财务管理办法	zhu fang gong ji jin cai wu guan li ban fa	44
 厦门市住宅区物业管理条例	xia men shi zhu zhai qu wu ye guan li tiao li	44
@@ -4742,7 +4742,7 @@ sort: by_weight
 一至六级残疾军人医疗保障办法	yi zhi liu ji can ji jun ren yi liao bao zhang ban fa	43
 保险公司撤销	bao xian gong si che xiao	43
 清末预备立宪	qing mo yu bei li xian	43
-中国人民银行行政处罚程序规定	zhong guo ren min yin xing xing zheng chu fa cheng xu gui ding	43
+中国人民银行行政处罚程序规定	zhong guo ren min yin hang xing zheng chu fa cheng xu gui ding	43
 中等职业学校德育大纲	zhong deng zhi ye xue xiao de yu da gang	43
 宁波市政府信息公开规定	ning bo shi zheng fu xin xi gong kai gui ding	42
 计算机软件应用技术	ji suan ji ruan jian ying yong ji shu	42
@@ -4765,7 +4765,7 @@ sort: by_weight
 清洁发展机制项目运行管理办法	qing jie fa zhan ji zhi xiang mu yun xing guan li ban fa	42
 黑龙江省见义勇为人员奖励和保护规定	hei long jiang sheng jian yi yong wei ren yuan jiang li he bao hu gui ding	42
 北京市经纬律师事务	bei jing shi jing wei lv shi shi wu	42
-长沙市征地补偿安置条例	chang sha shi zheng de bu chang an zhi tiao li	42
+长沙市征地补偿安置条例	chang sha shi zheng di bu chang an zhi tiao li	42
 北京莫少平律师事务所	bei jing mo shao ping lv shi shi wu suo	42
 国家重大建设项目招标投标监督暂行办法	guo jia zhong da jian she xiang mu zhao biao tou biao jian du zan xing ban fa	42
 安全警示录	an quan jing shi lu	42
@@ -4809,7 +4809,7 @@ sort: by_weight
 保守国家机密暂行条例	bao shou guo jia ji mi zan xing tiao li	41
 非转让背书	fei zhuan rang bei shu	41
 学生集体用餐卫生监督办法	xue sheng ji ti yong can wei sheng jian du ban fa	41
-保健食品标识规定	bao jian shi pin biao zhi gui ding	40
+保健食品标识规定	bao jian shi pin biao shi gui ding	40
 非法剥夺公民宗教信仰自由罪	fei fa bo duo gong min zong jiao xin yang zi you zui	40
 前南斯拉夫国际刑事法庭	qian nan si la fu guo ji xing shi fa ting	40
 刑奴	xing nu	40
@@ -4890,8 +4890,8 @@ sort: by_weight
 信用保障制度	xin yong bao zhang zhi du	38
 境内非居民	jing nei fei ju min	38
 国际法研究院	guo ji fa yan jiu yuan	38
-黄陂区公安分局	huang po qu gong an fen ju	38
-五朝会典	wu zhao hui dian	38
+黄陂区公安分局	huang pi qu gong an fen ju	38
+五朝会典	wu chao hui dian	38
 预期违约责任	yu qi wei yue ze ren	38
 城乡建设用地增减挂钩试点管理办法	cheng xiang jian she yong di zeng jian gua gou shi dian guan li ban fa	38
 虚伪意思表示	xu wei yi si biao shi	38
@@ -5022,7 +5022,7 @@ sort: by_weight
 浙江省城市市容和环境卫生管理实施办法	zhe jiang sheng cheng shi shi rong he huan jing wei sheng guan li shi shi ban fa	34
 执行调查令	zhi xing diao cha ling	34
 注册公用设备工程师执业资格考试实施办法	zhu ce gong yong she bei gong cheng shi zhi ye zi ge kao shi shi shi ban fa	34
-长三角法学论坛	zhang san jiao fa xue lun tan	34
+长三角法学论坛	chang san jiao fa xue lun tan	34
 出境货物木质包装检疫处理管理办法	chu jing huo wu mu zhi bao zhuang jian yi chu li guan li ban fa	34
 浙江省最低生活保障办法	zhe jiang sheng zui di sheng huo bao zhang ban fa	34
 普衡律师事务所	pu heng lv shi shi wu suo	34
@@ -5032,7 +5032,7 @@ sort: by_weight
 代理席位	dai li xi wei	34
 对席判决	dui xi pan jue	34
 保险兼业代理合同	bao xian jian ye dai li he tong	34
-会计人员职权条例	kuai ji ren yuan zhi quan tiao li	34
+会计人员职权条例	hui ji ren yuan zhi quan tiao li	34
 责任分散效应	ze ren fen san xiao ying	34
 非限制性债权	fei xian zhi xing zhai quan	33
 国际道路运输管理规定	guo ji dao lu yun shu guan li gui ding	33
@@ -5044,7 +5044,7 @@ sort: by_weight
 全国汽车运动管理规定	quan guo qi che yun dong guan li gui ding	33
 工业统计报表制度	gong ye tong ji bao biao zhi du	33
 港口经营管理规定	gang kou jing ying guan li gui ding	33
-行政没收	xing zheng mo shou	33
+行政没收	xing zheng mei shou	33
 中外合资经营企业合营期限暂行规定	zhong wai he zi jing ying qi ye he ying qi xian zan xing gui ding	33
 审判监督指导	shen pan jian du zhi dao	33
 高伟绅律师事务所	gao wei shen lv shi shi wu suo	33
@@ -5136,7 +5136,7 @@ sort: by_weight
 法医学鉴定人	fa yi xue jian ding ren	31
 模拟仲裁庭	mo ni zhong cai ting	31
 职业道德和法律法规	zhi ye dao de he fa lv fa gui	31
-土地权属争议处理暂行办法	tu di quan shu zheng yi chu li zan xing ban fa	31
+土地权属争议处理暂行办法	tu de quan shu zheng yi chu li zan xing ban fa	31
 林业行政处罚案件文书制作管理规定	lin ye xing zheng chu fa an jian wen shu zhi zuo guan li gui ding	31
 山东省黄河防汛条例	shan dong sheng huang he fang xun tiao li	31
 节约能源管理暂行条例	jie yue neng yuan guan li zan xing tiao li	31
@@ -5285,7 +5285,7 @@ sort: by_weight
 浙江省社会保险费征缴办法	zhe jiang sheng she hui bao xian fei zheng jiao ban fa	27
 普通高等学校新生学籍电子注册暂行办法	pu tong gao deng xue xiao xin sheng xue ji dian zi zhu ce zan xing ban fa	27
 广东省国家公务员录用实施办法	guang dong sheng guo jia gong wu yuan lu yong shi shi ban fa	27
-沈阳市城市绿地保护规定	shen yang shi cheng shi lv di bao hu gui ding	27
+沈阳市城市绿地保护规定	shen yang shi cheng shi lv de bao hu gui ding	27
 水权流转	shui quan liu zhuan	27
 电信建设管理办法	dian xin jian she guan li ban fa	27
 外国律师事务所驻华代表机构管理条例	wai guo lv shi shi wu suo zhu hua dai biao ji gou guan li tiao li	27
@@ -5475,7 +5475,7 @@ sort: by_weight
 默示担保义务	mo shi dan bao yi wu	24
 郑州市限制养犬条例	zheng zhou shi xian zhi yang quan tiao li	24
 探矿权采矿权评估管理暂行办法	tan kuang quan cai kuang quan ping gu guan li zan xing ban fa	24
-全面摊薄每股盈利	quan mian tan bao mei gu ying li	24
+全面摊薄每股盈利	quan mian tan bo mei gu ying li	24
 法律与社会规范	fa lv yu she hui gui fan	24
 法律英语写作	fa lv ying yu xie zuo	24
 吉林省药品监督管理条例	ji lin sheng yao pin jian du guan li tiao li	24
@@ -5487,7 +5487,7 @@ sort: by_weight
 申请设立企业集团财务公司操作规程	shen qing she li qi ye ji tuan cai wu gong si cao zuo gui cheng	23
 建筑抗震鉴定与加固技术规程	jian zhu kang zhen jian ding yu jia gu ji shu gui cheng	23
 税收救济法	shui shou jiu ji fa	23
-财经法规与会计职业道德考试大纲	cai jing fa gui yu hui ji zhi ye dao de kao shi da gang	23
+财经法规与会计职业道德考试大纲	cai jing fa gui yu kuai ji zhi ye dao de kao shi da gang	23
 不作为债务	bu zuo wei zhai wu	23
 行政事业单位资产核实暂行办法	xing zheng shi ye dan wei zi chan he shi zan xing ban fa	23
 一级漏电	yi ji lou dian	23
@@ -5536,7 +5536,7 @@ sort: by_weight
 禁用标志	jin yong biao zhi	22
 解读最高人民法院司法解释	jie du zui gao ren min fa yuan si fa jie shi	22
 安徽省蚕种管理条例	an hui sheng can zhong guan li tiao li	22
-广安市工商行政管理局	guang an shi gong shang hang zheng guan li ju	22
+广安市工商行政管理局	guang an shi gong shang xing zheng guan li ju	22
 西方马克思主义法学	xi fang ma ke si zhu yi fa xue	22
 应诉管辖	ying su guan xia	22
 刑法一本通	xing fa yi ben tong	22
@@ -5755,7 +5755,7 @@ sort: by_weight
 莫桑比克共和国议会	mo sang bi ke gong he guo yi hui	19
 中华人民共和国进出口动植物检疫条例	zhong hua ren min gong he guo jin chu kou dong zhi wu jian yi tiao li	19
 拟中标单位	ni zhong biao dan wei	19
-栖霞市国土资源局	qi xia shi guo tu zi yuan ju	19
+栖霞市国土资源局	xi xia shi guo tu zi yuan ju	19
 法律英语教程	fa lv ying yu jiao cheng	19
 全国银行间债券市场债券远期交易管理规定	quan guo yin hang jian zhai quan shi chang zhai quan yuan qi jiao yi guan li gui ding	19
 放弃重复侵害行为	fang qi chong fu qin hai xing wei	19
@@ -5836,7 +5836,7 @@ sort: by_weight
 统计监督职能	tong ji jian du zhi neng	18
 国际纺织品贸易协定	guo ji fang zhi pin mao yi xie ding	18
 有效关税保护率	you xiao guan shui bao hu lv	18
-房地产权初始登记	fang di chan quan chu shi deng ji	18
+房地产权初始登记	fang de chan quan chu shi deng ji	18
 有产与无产	you chan yu wu chan	18
 长臂管辖权	zhang bi guan xia quan	18
 非诉讼时效	fei su song shi xiao	18
@@ -5979,9 +5979,9 @@ sort: by_weight
 广州市老年人优待办法	guang zhou shi lao nian ren you dai ban fa	16
 贵州省预防职务犯罪工作条例	gui zhou sheng yu fang zhi wu fan zui gong zuo tiao li	16
 贵州省风景名胜区条例	gui zhou sheng feng jing ming sheng qu tiao li	16
-湖南省城镇蔬菜基地管理条例	hu nan sheng cheng zhen shu cai ji di guan li tiao li	16
+湖南省城镇蔬菜基地管理条例	hu nan sheng cheng zhen shu cai ji de guan li tiao li	16
 新兽药研制管理办法	xin shou yao yan zhi guan li ban fa	16
-重置价值条款	zhong zhi jia zhi tiao kuan	16
+重置价值条款	chong zhi jia zhi tiao kuan	16
 移植管理办法	yi zhi guan li ban fa	16
 政府采购运行规程暂行规定	zheng fu cai gou yun xing gui cheng zan xing gui ding	16
 台湾同胞投资企业协会管理暂行办法	tai wan tong bao tou zi qi ye xie hui guan li zan xing ban fa	16
@@ -6016,7 +6016,7 @@ sort: by_weight
 世界法律日	shi jie fa lv ri	16
 古建筑消防管理规则	gu jian zhu xiao fang guan li gui ze	16
 和谐与法治	he xie yu fa zhi	16
-诺成行为	nuo cheng hang wei	16
+诺成行为	nuo cheng xing wei	16
 仿印邮票图案管理办法	fang yin you piao tu an guan li ban fa	16
 厦门科宏眼科医院	xia men ke hong yan ke yi yuan	16
 特定行政行为	te ding xing zheng xing wei	16
@@ -6065,7 +6065,7 @@ sort: by_weight
 装运前检验协议	zhuang yun qian jian yan xie yi	15
 中国民用航空国内航线经营许可规定	zhong guo min yong hang kong guo nei hang xian jing ying xu ke gui ding	15
 山东省地震安全性评价管理办法	shan dong sheng di zhen an quan xing ping jia guan li ban fa	15
-日本行政诉讼法	ri ben hang zheng su song fa	15
+日本行政诉讼法	ri ben xing zheng su song fa	15
 建设工程安全生产费用管理规定	jian she gong cheng an quan sheng chan fei yong guan li gui ding	15
 禁止双重危险原则	jin zhi shuang chong wei xian yuan ze	15
 民事错诉责任	min shi cuo su ze ren	15
@@ -6197,7 +6197,7 @@ sort: by_weight
 住所法	zhu suo fa	14
 出入境口岸食品卫生监督管理规定	chu ru jing kou an shi pin wei sheng jian du guan li gui ding	14
 夫妻住所	fu qi zhu suo	14
-靖江市地方税务局	jing jiang shi di fang shui wu ju	14
+靖江市地方税务局	jing jiang shi de fang shui wu ju	14
 安徽大学法律评论	an hui da xue fa lv ping lun	14
 加油站计量监督管理办法	jia you zhan ji liang jian du guan li ban fa	14
 电力生产事故调查暂行规定	dian li sheng chan shi gu diao cha zan xing gui ding	14
@@ -6268,14 +6268,14 @@ sort: by_weight
 非常诉讼	fei chang su song	13
 医院分级管理办法	yi yuan fen ji guan li ban fa	13
 民营企业法律实用指导	min ying qi ye fa lv shi yong zhi dao	13
-人民调解员素质	ren min tiao jie yuan su zhi	13
+人民调解员素质	ren min diao jie yuan su zhi	13
 西藏节日文化	xi zang jie ri wen hua	13
 抵押权制度研究	di ya quan zhi du yan jiu	13
 工业中路派出所	gong ye zhong lu pai chu suo	13
 美国非农就业指数	mei guo fei nong jiu ye zhi shu	13
 性别发展指数	xing bie fa zhan zhi shu	13
 分居令	fen ju ling	13
-全国车辆超限超载长效治理实施意见	quan guo che liang chao xian chao zai zhang xiao zhi li shi shi yi jian	13
+全国车辆超限超载长效治理实施意见	quan guo che liang chao xian chao zai chang xiao zhi li shi shi yi jian	13
 聚众冲击军事禁区罪	ju zhong chong ji jun shi jin qu zui	13
 必要共同诉讼制度	bi yao gong tong su song zhi du	13
 合肥市城市饮用水水源保护条例	he fei shi cheng shi yin yong shui shui yuan bao hu tiao li	13
@@ -6448,7 +6448,7 @@ sort: by_weight
 书记官专业	shu ji guan zhuan ye	12
 取缔教育歧视公约	qu di jiao yu qi shi gong yue	12
 拆迁管理与纠纷处理操作指南	chai qian guan li yu jiu fen chu li cao zuo zhi nan	12
-土地权属制度	tu di quan shu zhi du	12
+土地权属制度	tu de quan shu zhi du	12
 长春市城市公共汽电车客运管理条例	chang chun shi cheng shi gong gong qi dian che ke yun guan li tiao li	12
 价格违法案件举报奖励办法	jia ge wei fa an jian ju bao jiang li ban fa	12
 乡镇企业用地使用权	xiang zhen qi ye yong di shi yong quan	12
@@ -6576,7 +6576,7 @@ sort: by_weight
 预防重大工业事故公约	yu fang zhong da gong ye shi gu gong yue	11
 安徽省失业保险规定	an hui sheng shi ye bao xian gui ding	11
 中华人民共和国港口收费规则	zhong hua ren min gong he guo gang kou shou fei gui ze	11
-中日通商行船条约	zhong ri tong shang hang chuan tiao yue	11
+中日通商行船条约	zhong ri tong shang xing chuan tiao yue	11
 狂犬病防治技术规范	kuang quan bing fang zhi ji shu gui fan	11
 外商投资企业采购国产设备退税管理试行办法	wai shang tou zi qi ye cai gou guo chan she bei tui shui guan li shi xing ban fa	11
 非方便法院	fei fang bian fa yuan	11
@@ -6628,7 +6628,7 @@ sort: by_weight
 新闻法规与职业道德教程	xin wen fa gui yu zhi ye dao de jiao cheng	10
 注册验船师制度暂行规定	zhu ce yan chuan shi zhi du zan xing gui ding	10
 中华人民共和国刑法一本通	zhong hua ren min gong he guo xing fa yi ben tong	10
-陕西省建设项目统一征地办法	shan xi sheng jian she xiang mu tong yi zheng de ban fa	10
+陕西省建设项目统一征地办法	shan xi sheng jian she xiang mu tong yi zheng di ban fa	10
 平等位次条款	ping deng wei ci tiao kuan	10
 常习犯	chang xi fan	10
 成都高新技术产业开发区人民检察院	cheng du gao xin ji shu chan ye kai fa qu ren min jian cha yuan	10
@@ -6653,7 +6653,7 @@ sort: by_weight
 四川省专业技术人员继续教育条例	si chuan sheng zhuan ye ji shu ren yuan ji xu jiao yu tiao li	10
 按揭贷款保证金	an jie dai kuan bao zheng jin	10
 中国摄影家协会章程	zhong guo she ying jia xie hui zhang cheng	10
-论述题模板式答题技巧训练	lun shu ti mu ban shi da ti ji qiao xun lian	10
+论述题模板式答题技巧训练	lun shu ti mo ban shi da ti ji qiao xun lian	10
 未成年人刑事司法制度	wei cheng nian ren xing shi si fa zhi du	10
 四川省矿产资源管理条例	si chuan sheng kuang chan zi yuan guan li tiao li	10
 南京市物业维修基金管理办法	nan jing shi wu ye wei xiu ji jin guan li ban fa	10
@@ -6724,14 +6724,14 @@ sort: by_weight
 非隔隙犯	fei ge xi fan	10
 国家财产豁免权	guo jia cai chan huo mian quan	9
 江西省木材运输监督管理办法	jiang xi sheng mu cai yun shu jian du guan li ban fa	9
-中国注册会计师协会会费交纳试行办法	zhong guo zhu ce kuai ji shi xie hui hui fei jiao na shi xing ban fa	9
+中国注册会计师协会会费交纳试行办法	zhong guo zhu ce hui ji shi xie hui hui fei jiao na shi xing ban fa	9
 上海市建筑物使用安装安全玻璃规定	shang hai shi jian zhu wu shi yong an zhuang an quan bo li gui ding	9
 国内外蜂产品标准选编	guo nei wai feng chan pin biao zhun xuan bian	9
 山东省海域使用管理条例	shan dong sheng hai yu shi yong guan li tiao li	9
 广西海警第一支队	guang xi hai jing di yi zhi dui	9
 有抵押权证	you di ya quan zheng	9
 母婴保健专项技术服务基本标准	mu ying bao jian zhuan xiang ji shu fu wu ji ben biao zhun	9
-辽宁省朝阳市公安局	liao ning sheng zhao yang shi gong an ju	9
+辽宁省朝阳市公安局	liao ning sheng chao yang shi gong an ju	9
 国有土地使用权流转	guo you tu di shi yong quan liu zhuan	9
 企业设备管理制度	qi ye she bei guan li zhi du	9
 奥林匹克知识产权保护文件汇编	ao lin pi ke zhi shi chan quan bao hu wen jian hui bian	9
@@ -6890,7 +6890,7 @@ sort: by_weight
 变劣发明	bian lie fa ming	9
 苏州市企业知名字号认定和保护办法	su zhou shi qi ye zhi ming zi hao ren ding he bao hu ban fa	8
 粉煤灰综合利用管理办法	fen mei hui zong he li yong guan li ban fa	8
-工伤维权速查	gong shang wei quan su cha	8
+工伤维权速查	gong shang wei quan su zha	8
 日本军国主义侵华资料长编	ri ben jun guo zhu yi qin hua zi liao chang bian	8
 中华人民共和国渔业船舶登记办法	zhong hua ren min gong he guo yu ye chuan bo deng ji ban fa	8
 阵地式谈判	zhen di shi tan pan	8
@@ -7002,7 +7002,7 @@ sort: by_weight
 明清土地契约文书研究	ming qing tu di qi yue wen shu yan jiu	8
 参加公司债	can jia gong si zhai	8
 政府采购资金财政直接拨付管理暂行办法	zheng fu cai gou zi jin cai zheng zhi jie bo fu guan li zan xing ban fa	8
-北京市西城区地方税务局	bei jing shi xi cheng qu di fang shui wu ju	8
+北京市西城区地方税务局	bei jing shi xi cheng qu de fang shui wu ju	8
 卢一凡	lu yi fan	8
 河南省粮油饲料产品质量监督检验站	he nan sheng liang you si liao chan pin zhi liang jian du jian yan zhan	8
 一次性使用麻醉穿刺包生产实施细则	yi ci xing shi yong ma zui chuan ci bao sheng chan shi shi xi ze	8
@@ -7011,7 +7011,7 @@ sort: by_weight
 四警合一	si jing he yi	8
 江苏省少数民族权益保障条例	jiang su sheng shao shu min zu quan yi bao zhang tiao li	8
 黑龙江省发展中医条例	hei long jiang sheng fa zhan zhong yi tiao li	8
-海洋行政执法法律文书基本格式应用指南	hai yang hang zheng zhi fa fa lv wen shu ji ben ge shi ying yong zhi nan	8
+海洋行政执法法律文书基本格式应用指南	hai yang xing zheng zhi fa fa lv wen shu ji ben ge shi ying yong zhi nan	8
 交通行政执法规范	jiao tong xing zheng zhi fa gui fan	8
 告知义务范围	gao zhi yi wu fan wei	8
 注意义务研究	zhu yi yi wu yan jiu	8
@@ -7109,7 +7109,7 @@ sort: by_weight
 山西省企业负担监督办法	shan xi sheng qi ye fu dan jian du ban fa	7
 产业损害调查信息查阅与信息披露规定	chan ye sun hai diao cha xin xi cha yue yu xin xi pi lu gui ding	7
 黑龙江省劳动力市场管理条例	hei long jiang sheng lao dong li shi chang guan li tiao li	7
-粘性增值	zhan xing zeng zhi	7
+粘性增值	nian xing zeng zhi	7
 中国共产党党内法规制定程序暂行条例	zhong guo gong chan dang dang nei fa gui zhi ding cheng xu zan xing tiao li	7
 沈阳市农村公路管理办法	shen yang shi nong cun gong lu guan li ban fa	7
 贵州省水能资源使用权有偿出让办法	gui zhou sheng shui neng zi yuan shi yong quan you chang chu rang ban fa	7
@@ -7230,7 +7230,7 @@ sort: by_weight
 引诱妇女卖淫罪	yin you fu nv mai yin zui	7
 公民权利和政治权利国际公约任择议定书	gong min quan li he zheng zhi quan li guo ji gong yue ren ze yi ding shu	7
 上海市盐业管理若干规定	shang hai shi yan ye guan li ruo gan gui ding	7
-故意泄露国家机密罪	gu yi xie lou guo jia ji mi zui	7
+故意泄露国家机密罪	gu yi xie lu guo jia ji mi zui	7
 有关刑事判决书	you guan xing shi pan jue shu	7
 中西法文化的暗合与差异	zhong xi fa wen hua de an he yu cha yi	7
 中国少数民族法制史	zhong guo shao shu min zu fa zhi shi	7
@@ -7313,7 +7313,7 @@ sort: by_weight
 安徽省农业生态环境保护条例	an hui sheng nong ye sheng tai huan jing bao hu tiao li	6
 越南落地签	yue nan luo di qian	6
 自然资源法学	zi ran zi yuan fa xue	6
-厦门经济特区出租汽车营运管理条例	xia men jing ji te qu chu zu qi che ying yun guan li tiao li	6
+厦门经济特区出租汽车营运管理条例	sha men jing ji te qu chu zu qi che ying yun guan li tiao li	6
 吉林省水能资源开发利用条例	ji lin sheng shui neng zi yuan kai fa li yong tiao li	6
 出入境检验检疫行政处罚程序规定	chu ru jing jian yan jian yi xing zheng chu fa cheng xu gui ding	6
 结婚生育法律问题指南	jie hun sheng yu fa lv wen ti zhi nan	6
@@ -7340,7 +7340,7 @@ sort: by_weight
 知识产权不侵权确认之诉	zhi shi chan quan bu qin quan que ren zhi su	6
 国际犯罪与国际刑事司法协助	guo ji fan zui yu guo ji xing shi si fa xie zhu	6
 设立境外中国产业投资基金管理办法	she li jing wai zhong guo chan ye tou zi ji jin guan li ban fa	6
-房地产法前沿	fang di chan fa qian yan	6
+房地产法前沿	fang de chan fa qian yan	6
 实用法律文书写作	shi yong fa lv wen shu xie zuo	6
 浙江省松材线虫病防治办法	zhe jiang sheng song cai xian chong bing fang zhi ban fa	6
 公路旅客运输合同	gong lu lv ke yun shu he tong	6
@@ -7348,7 +7348,7 @@ sort: by_weight
 商业诽谤行为	shang ye fei bang xing wei	6
 商标权利范围	shang biao quan li fan wei	6
 矿业权评估师执业资格制度暂行规定	kuang ye quan ping gu shi zhi ye zi ge zhi du zan xing gui ding	6
-江西省长江河道采砂管理实施办法	jiang xi sheng zhang jiang he dao cai sha guan li shi shi ban fa	6
+江西省长江河道采砂管理实施办法	jiang xi sheng chang jiang he dao cai sha guan li shi shi ban fa	6
 委托不明	wei tuo bu ming	6
 最新医疗诉讼案例精点	zui xin yi liao su song an li jing dian	6
 党员干部法律知识学习读本	dang yuan gan bu fa lv zhi shi xue xi du ben	6
@@ -7436,7 +7436,7 @@ sort: by_weight
 住房信贷保险	zhu fang xin dai bao xian	6
 强令违章冒险作业事故罪	qiang ling wei zhang mao xian zuo ye shi gu zui	6
 一般转让背书	yi ban zhuan rang bei shu	6
-广东省地方税务局网上申报纳税管理办法	guang dong sheng di fang shui wu ju wang shang shen bao na shui guan li ban fa	6
+广东省地方税务局网上申报纳税管理办法	guang dong sheng de fang shui wu ju wang shang shen bao na shui guan li ban fa	6
 安徽省农村能源建设与管理条例	an hui sheng nong cun neng yuan jian she yu guan li tiao li	6
 卫生信访工作办法	wei sheng xin fang gong zuo ban fa	6
 农作物种子质量检验机构考核管理办法	nong zuo wu zhong zi zhi liang jian yan ji gou kao he guan li ban fa	6
@@ -7633,7 +7633,7 @@ sort: by_weight
 广东省专利条例	guang dong sheng zhuan li tiao li	5
 商贸企业文化	shang mao qi ye wen hua	5
 刑事诉讼前沿研究	xing shi su song qian yan yan jiu	5
-南昌市蔬菜基地保护条例	nan chang shi shu cai ji di bao hu tiao li	5
+南昌市蔬菜基地保护条例	nan chang shi shu cai ji de bao hu tiao li	5
 城市湿地公园规划设计导则	cheng shi shi di gong yuan gui hua she ji dao ze	5
 北川羌族自治县自治条例	bei chuan qiang zu zi zhi xian zi zhi tiao li	5
 山东鲁泉律师事务所	shan dong lu quan lv shi shi wu suo	5
@@ -7674,7 +7674,7 @@ sort: by_weight
 加强税收征管稽查	jia qiang shui shou zheng guan ji cha	5
 约束性保护	yue shu xing bao hu	5
 超级小律师	chao ji xiao lv shi	5
-农村征地拆迁纠纷处理实务	nong cun zheng de chai qian jiu fen chu li shi wu	5
+农村征地拆迁纠纷处理实务	nong cun zheng di chai qian jiu fen chu li shi wu	5
 法律语言规范化研究	fa lv yu yan gui fan hua yan jiu	5
 土地登记代理合同	tu di deng ji dai li he tong	5
 师德行为规范	shi de xing wei gui fan	5
@@ -7703,7 +7703,7 @@ sort: by_weight
 浙江省水路运输管理条例	zhe jiang sheng shui lu yun shu guan li tiao li	5
 中华人民共和国内河海事行政处罚规定	zhong hua ren min gong he guo nei he hai shi xing zheng chu fa gui ding	5
 国家公职人员受贿罪	guo jia gong zhi ren yuan shou hui zui	5
-专业化银行制	zhuan ye hua yin hang zhi	5
+专业化银行制	zhuan ye hua yin xing zhi	5
 国务院企业管理委员会	guo wu yuan qi ye guan li wei yuan hui	5
 食品安全有奖举报制度	shi pin an quan you jiang ju bao zhi du	5
 实用古汉语知识宝典	shi yong gu han yu zhi shi bao dian	5
@@ -7755,7 +7755,7 @@ sort: by_weight
 非法转让技术	fei fa zhuan rang ji shu	4
 国共两党庐山谈判	guo gong liang dang lu shan tan pan	4
 法学研究与方法论	fa xue yan jiu yu fang fa lun	4
-厦门经济特区户外广告管理办法	xia men jing ji te qu hu wai guang gao guan li ban fa	4
+厦门经济特区户外广告管理办法	sha men jing ji te qu hu wai guang gao guan li ban fa	4
 法律限制和约束	fa lv xian zhi he yue shu	4
 商事合同签订指南与纠纷防范	shang shi he tong qian ding zhi nan yu jiu fen fang fan	4
 法治周末	fa zhi zhou mo	4
@@ -7875,7 +7875,7 @@ sort: by_weight
 国务院审计长	guo wu yuan shen ji zhang	4
 第一法律门户	di yi fa lv men hu	4
 城乡规划与建设法规知识读本	cheng xiang gui hua yu jian she fa gui zhi shi du ben	4
-三都水族自治县乡村公路条例	san dou shui zu zi zhi xian xiang cun gong lu tiao li	4
+三都水族自治县乡村公路条例	san du shui zu zi zhi xian xiang cun gong lu tiao li	4
 银行业常用法律法规手册	yin hang ye chang yong fa lv fa gui shou ce	4
 商用密码产品生产管理规定	shang yong mi ma chan pin sheng chan guan li gui ding	4
 七十自画像	qi shi zi hua xiang	4
@@ -7904,7 +7904,7 @@ sort: by_weight
 捍卫国家法律尊严	han wei guo jia fa lv zun yan	4
 水工金属结构防腐蚀工作管理办法	shui gong jin shu jie gou fang fu shi gong zuo guan li ban fa	4
 印度古代法	yin du gu dai fa	4
-云南省三江并流世界自然遗产地保护条例	yun nan sheng san jiang bing liu shi jie zi ran yi chan di bao hu tiao li	4
+云南省三江并流世界自然遗产地保护条例	yun nan sheng san jiang bing liu shi jie zi ran yi chan de bao hu tiao li	4
 定性决策法	ding xing jue ce fa	4
 旅游经济政策	lv you jing ji zheng ce	4
 新编企业经营法小全书	xin bian qi ye jing ying fa xiao quan shu	4
@@ -7979,7 +7979,7 @@ sort: by_weight
 合同缔约过失责任	he tong di yue guo shi ze ren	4
 就业与和谐社会发展	jiu ye yu he xie she hui fa zhan	4
 医疗事故赔偿法	yi liao shi gu pei chang fa	4
-海洋行政执法必读	hai yang hang zheng zhi fa bi du	4
+海洋行政执法必读	hai yang xing zheng zhi fa bi du	4
 重庆市村民委员会选举办法	chong qing shi cun min wei yuan hui xuan ju ban fa	4
 国有企业改革比较法律研究	guo you qi ye gai ge bi jiao fa lv yan jiu	4
 合伙企业法辞解	he huo qi ye fa ci jie	4
@@ -7998,7 +7998,7 @@ sort: by_weight
 天津市地下空间规划管理条例	tian jin shi di xia kong jian gui hua guan li tiao li	4
 协议全损	xie yi quan sun	4
 自为行为	zi wei xing wei	4
-三都水族自治县水书文化保护条例	san dou shui zu zi zhi xian shui shu wen hua bao hu tiao li	4
+三都水族自治县水书文化保护条例	san du shui zu zi zhi xian shui shu wen hua bao hu tiao li	4
 南宁市城市房地产交易管理条例	nan ning shi cheng shi fang di chan jiao yi guan li tiao li	4
 浙江省产品质量监督管理条例	zhe jiang sheng chan pin zhi liang jian du guan li tiao li	4
 出境竹木草制品检疫管理办法	chu jing zhu mu cao zhi pin jian yi guan li ban fa	4
@@ -8086,7 +8086,7 @@ sort: by_weight
 英国陆军法	ying guo lu jun fa	3
 非犯罪化研究	fei fan zui hua yan jiu	3
 人身损害赔偿疑难案例专家点评	ren shen sun hai pei chang yi nan an li zhuan jia dian ping	3
-浙江省会计人员继续教育实施办法	zhe jiang sheng kuai ji ren yuan ji xu jiao yu shi shi ban fa	3
+浙江省会计人员继续教育实施办法	zhe jiang sheng hui ji ren yuan ji xu jiao yu shi shi ban fa	3
 法律法规适用范围	fa lv fa gui shi yong fan wei	3
 广东省自然灾害救济工作规定	guang dong sheng zi ran zai hai jiu ji gong zuo gui ding	3
 定稿创作	ding gao chuang zuo	3
@@ -8119,7 +8119,7 @@ sort: by_weight
 南非共和国宪法	nan fei gong he guo xian fa	3
 中外合资经营企业劳动合同	zhong wai he zi jing ying qi ye lao dong he tong	3
 比较刑法暨国际刑法专论	bi jiao xing fa ji guo ji xing fa zhuan lun	3
-征地安置补偿纠纷	zheng de an zhi bu chang jiu fen	3
+征地安置补偿纠纷	zheng di an zhi bu chang jiu fen	3
 浙江省军人抚恤优待办法	zhe jiang sheng jun ren fu xu you dai ban fa	3
 空姐溶尸案	kong jie rong shi an	3
 普遍优惠制税	pu bian you hui zhi shui	3
@@ -8166,7 +8166,7 @@ sort: by_weight
 禁止重复追究原则	jin zhi chong fu zhui jiu yuan ze	3
 澳门检察制度	ao men jian cha zhi du	3
 南昌市液化石油气管理条例	nan chang shi ye hua shi you qi guan li tiao li	3
-三都水族自治县城镇管理条例	san dou shui zu zi zhi xian cheng zhen guan li tiao li	3
+三都水族自治县城镇管理条例	san du shui zu zi zhi xian cheng zhen guan li tiao li	3
 梅州市司法局	mei zhou shi si fa ju	3
 中国人民银行固定资产管理办法	zhong guo ren min yin hang gu ding zi chan guan li ban fa	3
 失业下岗人员权益维护	shi ye xia gang ren yuan quan yi wei hu	3
@@ -8226,7 +8226,7 @@ sort: by_weight
 云南省探矿权采矿权管理办法	yun nan sheng tan kuang quan cai kuang quan guan li ban fa	3
 劳动合同及劳动和社会保障文书范本指南	lao dong he tong ji lao dong he she hui bao zhang wen shu fan ben zhi nan	3
 司法工作人员徇私舞弊罪	si fa gong zuo ren yuan xun si wu bi zui	3
-工商银行财务会计部	gong shang yin hang cai wu kuai ji bu	3
+工商银行财务会计部	gong shang yin hang cai wu hui ji bu	3
 道路旅客运输班线经营权招标投标办法	dao lu lv ke yun shu ban xian jing ying quan zhao biao tou biao ban fa	3
 注册会计师管理制度	zhu ce kuai ji shi guan li zhi du	3
 北京市农民负担管理条例	bei jing shi nong min fu dan guan li tiao li	3
@@ -8289,14 +8289,14 @@ sort: by_weight
 全国剧场管理工作试行条例	quan guo ju chang guan li gong zuo shi xing tiao li	3
 长沙市旧货交易治安管理办法	chang sha shi jiu huo jiao yi zhi an guan li ban fa	3
 保险专营	bao xian zhuan ying	3
-乐都县司法局	le dou xian si fa ju	3
+乐都县司法局	le du xian si fa ju	3
 旅游标准化工作管理暂行办法	lv you biao zhun hua gong zuo guan li zan xing ban fa	3
 贵州省夜郎湖水资源环境保护条例	gui zhou sheng ye lang hu shui zi yuan huan jing bao hu tiao li	3
 著作权新型疑难案件审判实务	zhu zuo quan xin xing yi nan an jian shen pan shi wu	3
 高等教育管理职责暂行规定	gao deng jiao yu guan li zhi ze zan xing gui ding	3
 抵押式兼并	di ya shi jian bing	3
 单病种医保	dan bing zhong yi bao	3
-判工行为	pan gong hang wei	3
+判工行为	pan gong xing wei	3
 民用航空气象人员执照管理规则	min yong hang kong qi xiang ren yuan zhi zhao guan li gui ze	3
 中国人民解放军武器装备管理条例	zhong guo ren min jie fang jun wu qi zhuang bei guan li tiao li	3
 劳教人员习艺劳动	lao jiao ren yuan xi yi lao dong	3
@@ -8724,7 +8724,7 @@ sort: by_weight
 论犯罪与刑罚及其他著作	lun fan zui yu xing fa ji qi ta zhu zuo	2
 中华人民共和国国家计量技术法规	zhong hua ren min gong he guo guo jia ji liang ji shu fa gui	2
 土地管理常用法律法规手册	tu di guan li chang yong fa lv fa gui shou ce	2
-军人泄露军事机密罪	jun ren xie lou jun shi ji mi zui	2
+军人泄露军事机密罪	jun ren xie lu jun shi ji mi zui	2
 民法民事诉讼法基础课堂笔记	min fa min shi su song fa ji chu ke tang bi ji	2
 检察官任职回避	jian cha guan ren zhi hui bi	2
 自适应加权式	zi shi ying jia quan shi	2
@@ -8768,7 +8768,7 @@ sort: by_weight
 人身险法定分保条件实施细则	ren shen xian fa ding fen bao tiao jian shi shi xi ze	2
 储备头寸负债管理	chu bei tou cun fu zhai guan li	2
 医疗事故处理法律傻瓜手册	yi liao shi gu chu li fa lv sha gua shou ce	2
-私分罚没财产罪	si fen fa mei cai chan zui	2
+私分罚没财产罪	si fen fa mo cai chan zui	2
 遗漏主体	yi lou zhu ti	2
 美国联邦最高法院经典税法案例评析	mei guo lian bang zui gao fa yuan jing dian shui fa an li ping xi	2
 论股东表决权	lun gu dong biao jue quan	2
@@ -8804,7 +8804,7 @@ sort: by_weight
 著作权质押合同登记办法	zhu zuo quan zhi ya he tong deng ji ban fa	2
 国家重点技术改造项目国债专项资金管理办法	guo jia zhong dian ji shu gai zao xiang mu guo zhai zhuan xiang zi jin guan li ban fa	2
 日本众议院选举制度	ri ben zhong yi yuan xuan ju zhi du	2
-安徽省地方税务局有奖发票管理试行办法	an hui sheng di fang shui wu ju you jiang fa piao guan li shi xing ban fa	2
+安徽省地方税务局有奖发票管理试行办法	an hui sheng de fang shui wu ju you jiang fa piao guan li shi xing ban fa	2
 国家计量检定规程管理办法	guo jia ji liang jian ding gui cheng guan li ban fa	2
 招标投标法律实务	zhao biao tou biao fa lv shi wu	2
 云南省拥军优属规定	yun nan sheng yong jun you shu gui ding	2
@@ -8887,12 +8887,12 @@ sort: by_weight
 一如法界	yi ru fa jie	2
 行政行为基本范畴研究	xing zheng xing wei ji ben fan chou yan jiu	2
 海关税则分类目录公约	hai guan shui ze fen lei mu lu gong yue	2
-怒江傈僳族自治州地方税务局	nu jiang li su zu zi zhi zhou di fang shui wu ju	2
+怒江傈僳族自治州地方税务局	nu jiang li su zu zi zhi zhou de fang shui wu ju	2
 世界五百强企业培训故事全案	shi jie wu bai qiang qi ye pei xun gu shi quan an	2
 德国古典哲理法学	de guo gu dian zhe li fa xue	2
 证券监管法律制度研究	zheng quan jian guan fa lv zhi du yan jiu	2
 国际项目融资法律问题研究	guo ji xiang mu rong zi fa lv wen ti yan jiu	2
-经济法理论的重构	jing ji fa li lun de zhong gou	2
+经济法理论的重构	jing ji fa li lun de chong gou	2
 反洗钱的理论与实践	fan xi qian de li lun yu shi jian	2
 中位数价格法	zhong wei shu jia ge fa	2
 专利的分案申请	zhuan li de fen an shen qing	2
@@ -8931,7 +8931,7 @@ sort: by_weight
 建设工程法规及相关知识实用指南	jian she gong cheng fa gui ji xiang guan zhi shi shi yong zhi nan	2
 对外贸易经营者管理制度	dui wai mao yi jing ying zhe guan li zhi du	2
 传媒责任险	chuan mei ze ren xian	2
-刑事调解书	xing shi tiao jie shu	2
+刑事调解书	xing shi diao jie shu	2
 反垄断的经济学分析	fan long duan de jing ji xue fen xi	2
 宁波市爱国卫生管理规定	ning bo shi ai guo wei sheng guan li gui ding	2
 新康德主义法学派	xin kang de zhu yi fa xue pai	2
@@ -8954,7 +8954,7 @@ sort: by_weight
 行政许可法实用解答	xing zheng xu ke fa shi yong jie da	2
 跨年度采购	kua nian du cai gou	2
 秦伟立	qin wei li	2
-工商行政管理基层执法办案实务	gong shang hang zheng guan li ji ceng zhi fa ban an shi wu	2
+工商行政管理基层执法办案实务	gong shang xing zheng guan li ji ceng zhi fa ban an shi wu	2
 射击场设置管理规程	she ji chang she zhi guan li gui cheng	2
 北京市国家公务员奖励暂行办法	bei jing shi guo jia gong wu yuan jiang li zan xing ban fa	2
 国际经济贸易标准法律文书范本	guo ji jing ji mao yi biao zhun fa lv wen shu fan ben	2
@@ -9050,7 +9050,7 @@ sort: by_weight
 血站管理暂行办法	xue zhan guan li zan xing ban fa	1
 未成年人保护行动中原行	wei cheng nian ren bao hu xing dong zhong yuan xing	1
 过程控制仪表技术	guo cheng kong zhi yi biao ji shu	1
-南京市蔬菜基地管理条例	nan jing shi shu cai ji di guan li tiao li	1
+南京市蔬菜基地管理条例	nan jing shi shu cai ji de guan li tiao li	1
 条件未完全的合约	tiao jian wei wan quan de he yue	1
 阿坝藏族羌族自治州水资源管理条例	a ba zang zu qiang zu zi zhi zhou shui zi yuan guan li tiao li	1
 刑事审判认证指南	xing shi shen pan ren zheng zhi nan	1
@@ -9097,7 +9097,7 @@ sort: by_weight
 中国税收守法基本问题	zhong guo shui shou shou fa ji ben wen ti	1
 新公司法的制度创新	xin gong si fa de zhi du chuang xin	1
 杭州市外商投资企业投诉及处理办法	hang zhou shi wai shang tou zi qi ye tou su ji chu li ban fa	1
-广东省扶持老区资金使用管理办法	guang dong sheng fu chi lao ou zi jin shi yong guan li ban fa	1
+广东省扶持老区资金使用管理办法	guang dong sheng fu chi lao qu zi jin shi yong guan li ban fa	1
 监视居住委托书	jian shi ju zhu wei tuo shu	1
 宋代物权关系研究	song dai wu quan guan xi yan jiu	1
 并存债务承担	bing cun zhai wu cheng dan	1
@@ -9436,7 +9436,7 @@ sort: by_weight
 全民所有制企业工业企业法	quan min suo you zhi qi ye gong ye qi ye fa	1
 指纹断案	zhi wen duan an	1
 全国政协行政单位国有资产管理暂行实施办法	quan guo zheng xie xing zheng dan wei guo you zi chan guan li zan xing shi shi ban fa	1
-中华人民共和国土地管理法释义	zhong hua ren min gong he guo tu di guan li fa shi yi	1
+中华人民共和国土地管理法释义	zhong hua ren min gong he guo tu de guan li fa shi yi	1
 太原市动物和动物产品检疫条例	tai yuan shi dong wu he dong wu chan pin jian yi tiao li	1
 济南市封山育林管理规定	ji nan shi feng shan yu lin guan li gui ding	1
 行为法学派	xing wei fa xue pai	1
@@ -9450,7 +9450,7 @@ sort: by_weight
 尧蔚云	yao wei yun	1
 撰写法律文章	zhuan xie fa lv wen zhang	1
 谈判与辩论技巧	tan pan yu bian lun ji qiao	1
-吉林省农村土地承包经营管理条例	ji lin sheng nong cun tu di cheng bao jing ying guan li tiao li	1
+吉林省农村土地承包经营管理条例	ji lin sheng nong cun tu de cheng bao jing ying guan li tiao li	1
 征信概论	zheng xin gai lun	1
 药品类易制毒化学品管理办法	yao pin lei yi zhi du hua xue pin guan li ban fa	1
 日本国检察制度	ri ben guo jian cha zhi du	1
@@ -9502,7 +9502,7 @@ sort: by_weight
 合同欺诈及其法律对策	he tong qi zha ji qi fa lv dui ce	1
 大宋提刑官断案宝典	da song ti xing guan duan an bao dian	1
 宇宙开发法	yu zhou kai fa fa	1
-电子调速微型异步电动机通用技术条件	dian zi diao su wei xing yi bu dian dong ji tong yong ji shu tiao jian	1
+电子调速微型异步电动机通用技术条件	dian zi tiao su wei xing yi bu dian dong ji tong yong ji shu tiao jian	1
 运输车辆管理制度	yun shu che liang guan li zhi du	1
 器官移植法研究	qi guan yi zhi fa yan jiu	1
 怒江傈僳族自治州林业管理条例	nu jiang li su zu zi zhi zhou lin ye guan li tiao li	1
@@ -9657,9 +9657,9 @@ sort: by_weight
 海底电缆敷设船	hai di dian lan fu she chuan	1
 水闸安全鉴定管理办法	shui zha an quan jian ding guan li ban fa	1
 工业企业职工听力保护规范	gong ye qi ye zhi gong ting li bao hu gui fan	1
-房地产法精要与依据指引	fang di chan fa jing yao yu yi ju zhi yin	1
+房地产法精要与依据指引	fang de chan fa jing yao yu yi ju zhi yin	1
 外国法院说	wai guo fa yuan shuo	1
-企业财务会计报告条例实务全书	qi ye cai wu kuai ji bao gao tiao li shi wu quan shu	1
+企业财务会计报告条例实务全书	qi ye cai wu hui ji bao gao tiao li shi wu quan shu	1
 固定资产投资项目开工前审计暂行办法	gu ding zi chan tou zi xiang mu kai gong qian shen ji zan xing ban fa	1
 四川省涉案物品价格鉴定管理条例	si chuan sheng she an wu pin jia ge jian ding guan li tiao li	1
 全国税务机关公文处理实施办法	quan guo shui wu ji guan gong wen chu li shi shi ban fa	1
@@ -9723,7 +9723,7 @@ sort: by_weight
 危险刑法	wei xian xing fa	1
 中华人民共和国失业保险条例	zhong hua ren min gong he guo shi ye bao xian tiao li	1
 煤矿生产安全事故报告和调查处理规定	mei kuang sheng chan an quan shi gu bao gao he diao cha chu li gui ding	1
-行政附带民事调解书	xing zheng fu dai min shi tiao jie shu	1
+行政附带民事调解书	xing zheng fu dai min shi diao jie shu	1
 应申请行政行为判解	ying shen qing xing zheng xing wei pan jie	1
 国家物资储备仓库安全保卫办法	guo jia wu zi chu bei cang ku an quan bao wei ban fa	1
 乌鲁木齐市城市绿化管理条例	wu lu mu qi shi cheng shi lv hua guan li tiao li	1
@@ -9734,7 +9734,7 @@ sort: by_weight
 产品防伪监督管理办法实施细则	chan pin fang wei jian du guan li ban fa shi shi xi ze	1
 行业协会经济自治权研究	hang ye xie hui jing ji zi zhi quan yan jiu	1
 陕西省统计登记管理办法	shan xi sheng tong ji deng ji guan li ban fa	1
-中央行政单位国有资产管理暂行办法	zhong yang hang zheng dan wei guo you zi chan guan li zan xing ban fa	1
+中央行政单位国有资产管理暂行办法	zhong yang xing zheng dan wei guo you zi chan guan li zan xing ban fa	1
 海牙第一公约	hai ya di yi gong yue	1
 体育赛事合同	ti yu sai shi he tong	1
 浙江省台湾船舶边防管理规定	zhe jiang sheng tai wan chuan bo bian fang guan li gui ding	1
@@ -9749,7 +9749,7 @@ sort: by_weight
 中国近代民族自治法制研究	zhong guo jin dai min zu zi zhi fa zhi yan jiu	1
 中国科学院优秀博士后评选条例	zhong guo ke xue yuan you xiu bo shi hou ping xuan tiao li	1
 梅根法案	mei gen fa an	1
-恐吓威胁罪	kong he wei xie zui	1
+恐吓威胁罪	kong xia wei xie zui	1
 本溪市森林防火办法	ben xi shi sen lin fang huo ban fa	1
 组织健康报告法	zu zhi jian kang bao gao fa	1
 旅游法规案例精选与解析	lv you fa gui an li jing xuan yu jie xi	1
@@ -9858,7 +9858,7 @@ sort: by_weight
 刑法效力范围	xing fa xiao li fan wei	1
 刑事诉讼法修改专题研究报告	xing shi su song fa xiu gai zhuan ti yan jiu bao gao	1
 律师维权案例选	lv shi wei quan an li xuan	1
-土地管理法配套规定	tu di guan li fa pei tao gui ding	1
+土地管理法配套规定	tu de guan li fa pei tao gui ding	1
 中国法学前沿	zhong guo fa xue qian yan	1
 基督与受骗女子	ji du yu shou pian nv zi	1
 城市基层权力重组	cheng shi ji ceng quan li chong zu	1

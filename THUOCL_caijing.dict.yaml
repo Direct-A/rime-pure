@@ -214,7 +214,7 @@ sort: by_weight
 查获	cha huo	78697
 组合	zu he	78688
 周期	zhou qi	77769
-着手	zhuo shou	77456
+着手	zhao shou	77456
 通讯	tong xun	77199
 证券	zheng quan	76141
 恶化	e hua	75850
@@ -224,7 +224,7 @@ sort: by_weight
 国际化	guo ji hua	74559
 流通	liu tong	74519
 奖金	jiang jin	74326
-供给	gong ji	74310
+供给	gong gei	74310
 财政部	cai zheng bu	74243
 信用	xin yong	74087
 备案	bei an	73378
@@ -380,7 +380,7 @@ sort: by_weight
 区域性	qu yu xing	33169
 冻结	dong jie	33061
 数据库	shu ju ku	33029
-行长	xing zhang	32913
+行长	hang zhang	32913
 核准	he zhun	32880
 一季度	yi ji du	32755
 楼盘	lou pan	32718
@@ -413,7 +413,7 @@ sort: by_weight
 英镑	ying bang	29915
 投标	tou biao	29607
 进场	jin chang	29412
-落下	la xia	29102
+落下	luo xia	29102
 成交量	cheng jiao liang	28913
 日元	ri yuan	28792
 交易所	jiao yi suo	28424
@@ -701,7 +701,7 @@ sort: by_weight
 益处	yi chu	8912
 工钱	gong qian	8895
 推介会	tui jie hui	8813
-回调	hui diao	8741
+回调	hui tiao	8741
 超值	chao zhi	8734
 所有者	suo you zhe	8728
 抵消	di xiao	8724
@@ -1014,7 +1014,7 @@ sort: by_weight
 风控	feng kong	2981
 仓位	cang wei	2953
 国电	guo dian	2941
-跨行	kua xing	2937
+跨行	kua hang	2937
 存单	cun dan	2936
 纪念章	ji nian zhang	2880
 拒付	ju fu	2850
@@ -1029,7 +1029,7 @@ sort: by_weight
 消费类	xiao fei lei	2741
 大中型企业	da zhong xing qi ye	2741
 阿波罗	a bo luo	2718
-还本付息	huan ben fu xi	2706
+还本付息	hai ben fu xi	2706
 发行人	fa xing ren	2702
 坏账	huai zhang	2687
 中间商	zhong jian shang	2667
@@ -1081,7 +1081,7 @@ sort: by_weight
 外高桥	wai gao qiao	2257
 牌价	pai jia	2244
 熊市	xiong shi	2243
-长阳	zhang yang	2243
+长阳	chang yang	2243
 假钞	jia chao	2240
 领票	ling piao	2238
 汇出	hui chu	2230
@@ -1153,7 +1153,7 @@ sort: by_weight
 金融市场	jin rong shi chang	1678
 最高价	zui gao jia	1673
 贴现	tie xian	1672
-美国银行	mei guo yin hang	1668
+美国银行	mei guo yin xing	1668
 上海财经大学	shang hai cai jing da xue	1649
 鞍钢	an gang	1645
 撤资	che zi	1632
@@ -1251,7 +1251,7 @@ sort: by_weight
 方兴	fang xing	1093
 公司制	gong si zhi	1071
 水仙	shui xian	1069
-长岭	zhang ling	1067
+长岭	chang ling	1067
 嘉实	jia shi	1067
 证券法	zheng quan fa	1062
 新城市	xin cheng shi	1060
@@ -1302,7 +1302,7 @@ sort: by_weight
 原始积累	yuan shi ji lei	911
 摩根大通	mo gen da tong	911
 验钞机	yan chao ji	911
-银行界	yin hang jie	906
+银行界	yin xing jie	906
 金融资产	jin rong zi chan	904
 审计师	shen ji shi	903
 广深铁路	guang shen tie lu	902
@@ -1330,7 +1330,7 @@ sort: by_weight
 诡计	gui ji	830
 天保	tian bao	827
 万华	wan hua	827
-苏泊尔	su po er	817
+苏泊尔	su bo er	817
 超跌	chao die	814
 银质	yin zhi	811
 势态	shi tai	807
@@ -1351,7 +1351,7 @@ sort: by_weight
 权证	quan zheng	780
 信用度	xin yong du	780
 白金卡	bai jin ka	779
-重估	zhong gu	774
+重估	chong gu	774
 流转税	liu zhuan shui	774
 长运	zhang yun	771
 硬通货	ying tong huo	771
@@ -1600,7 +1600,7 @@ sort: by_weight
 新天	xin tian	303
 秋林	qiu lin	302
 追收	zhui shou	302
-地量	de liang	302
+地量	di liang	302
 金果	jin guo	302
 亚星	ya xing	302
 至高点	zhi gao dian	301
@@ -1609,11 +1609,11 @@ sort: by_weight
 金融史	jin rong shi	297
 总成交量	zong cheng jiao liang	297
 农行卡	nong hang ka	296
-富国银行	fu guo yin hang	293
+富国银行	fu guo yin xing	293
 摩根斯坦利	mo gen si tan li	290
 发行期	fa xing qi	290
 天香	tian xiang	289
-厦华	sha hua	288
+厦华	xia hua	288
 煤气化	mei qi hua	287
 国资局	guo zi ju	286
 探路者	tan lu zhe	285
@@ -1738,7 +1738,7 @@ sort: by_weight
 超标者	chao biao zhe	177
 赌马	du ma	174
 瑞龙	rui long	174
-协调部	xie tiao bu	174
+协调部	xie diao bu	174
 跨国银行	kua guo yin hang	174
 公股	gong gu	174
 张江高科	zhang jiang gao ke	174
@@ -1796,7 +1796,7 @@ sort: by_weight
 北新路桥	bei xin lu qiao	144
 组织机构代码证	zu zhi ji gou dai ma zheng	144
 桐君阁	tong jun ge	143
-金地集团	jin de ji tuan	143
+金地集团	jin di ji tuan	143
 海欣	hai xin	143
 国有股	guo you gu	141
 颈圈	jing quan	139
@@ -1815,7 +1815,7 @@ sort: by_weight
 公司章程	gong si zhang cheng	131
 三联商社	san lian shang she	131
 浦银	pu yin	130
-瑞士银行	rui shi yin hang	130
+瑞士银行	rui shi yin xing	130
 投资学	tou zi xue	129
 华天酒店	hua tian jiu dian	129
 永大	yong da	129
@@ -1929,7 +1929,7 @@ sort: by_weight
 锌业	xin ye	88
 拓尔思	ta er si	88
 公用科技	gong yong ke ji	88
-银行学	yin hang xue	87
+银行学	yin xing xue	87
 大北农	da bei nong	86
 口令卡	kou ling ka	86
 封闭期	feng bi qi	86
@@ -2054,7 +2054,7 @@ sort: by_weight
 钱经	qian jing	60
 新华百货	xin hua bai huo	59
 联益	lian yi	59
-劳埃德银行	lao ai de yin hang	58
+劳埃德银行	lao ai de yin xing	58
 高新兴	gao xin xing	58
 海兰信	hai lan xin	58
 美丽华酒店	mei li hua jiu dian	58
@@ -2152,7 +2152,7 @@ sort: by_weight
 三季度	san ji du	42
 中国矿业	zhong guo kuang ye	41
 红宝丽	hong bao li	41
-新都酒店	xin dou jiu dian	41
+新都酒店	xin du jiu dian	41
 运盛	yun sheng	41
 高溢价	gao yi jia	41
 配额制	pei e zhi	41
@@ -2214,7 +2214,7 @@ sort: by_weight
 中国国际	zhong guo guo ji	34
 新宙邦	xin zhou bang	34
 指数化	zhi shu hua	34
-上海分行	shang hai fen hang	34
+上海分行	shang hai fen xing	34
 北矿	bei kuang	34
 广宇集团	guang yu ji tuan	33
 普利特	pu li te	33
@@ -2358,7 +2358,7 @@ sort: by_weight
 重庆机电	chong qing ji dian	22
 百盛集团	bai sheng ji tuan	22
 经理费	jing li fei	22
-大行情	da xing qing	22
+大行情	da hang qing	22
 评估办法	ping gu ban fa	22
 查库	cha ku	22
 中国南车	zhong guo nan che	22
@@ -2376,7 +2376,7 @@ sort: by_weight
 万力达	wan li da	20
 尤洛卡	you luo ka	20
 北辰实业	bei chen shi ye	20
-长城卡	chang cheng ka	20
+长城卡	zhang cheng ka	20
 汤臣倍健	tang chen bei jian	20
 麦达斯	mai da si	20
 株冶集团	zhu ye ji tuan	20
@@ -2409,7 +2409,7 @@ sort: by_weight
 四洲集团	si zhou ji tuan	19
 丰林集团	feng lin ji tuan	19
 苏宁环球股份有限公司	su ning huan qiu gu fen you xian gong si	19
-广州分行	guang zhou fen hang	19
+广州分行	guang zhou fen xing	19
 葛州坝	ge zhou ba	19
 三丰智能	san feng zhi neng	19
 深证成指	shen zheng cheng zhi	19
@@ -2417,7 +2417,7 @@ sort: by_weight
 保管人	bao guan ren	19
 先声药业	xian sheng yao ye	19
 良运	liang yun	18
-长电	zhang dian	18
+长电	chang dian	18
 天津松江	tian jin song jiang	18
 广电运通	guang dian yun tong	18
 厦门钨业	xia men wu ye	18
@@ -2467,7 +2467,7 @@ sort: by_weight
 售尽	shou jin	16
 吉林森工	ji lin sen gong	16
 亚洲货币	ya zhou huo bi	16
-富士银行	fu shi yin hang	16
+富士银行	fu shi yin xing	16
 康得新	kang de xin	16
 天鸿宝业	tian hong bao ye	16
 康菲石油	kang fei shi you	16
@@ -2502,7 +2502,7 @@ sort: by_weight
 琼民源	qiong min yuan	14
 深国商	shen guo shang	14
 溢缴款	yi jiao kuan	14
-饱和点	bao huo dian	14
+饱和点	bao he dian	14
 罗普斯金	luo pu si jin	14
 东锅	dong guo	14
 三木集团	san mu ji tuan	14
@@ -2551,7 +2551,7 @@ sort: by_weight
 华微电子	hua wei dian zi	13
 乐电	le dian	13
 奥克股份	ao ke gu fen	13
-供给区	gong ji qu	13
+供给区	gong gei qu	13
 财务管理	cai wu guan li	13
 麦科特	mai ke te	13
 威尔泰	wei er tai	13
@@ -2599,7 +2599,7 @@ sort: by_weight
 华安宏利	hua an hong li	11
 浙江广厦	zhe jiang guang sha	11
 国泰进取	guo tai jin qu	11
-厦门信达	xia men xin da	11
+厦门信达	sha men xin da	11
 担保品	dan bao pin	11
 认同卡	ren tong ka	11
 顺诚	shun cheng	11
@@ -2627,7 +2627,7 @@ sort: by_weight
 烽火通信	feng huo tong xin	11
 健康元	jian kang yuan	10
 常柴	chang chai	10
-厦门信达股份有限公司	xia men xin da gu fen you xian gong si	10
+厦门信达股份有限公司	sha men xin da gu fen you xian gong si	10
 华商银行	hua shang yin hang	10
 首席财务官	shou xi cai wu guan	10
 大众理财顾问	da zhong li cai gu wen	10
@@ -2664,7 +2664,7 @@ sort: by_weight
 英国金融时报	ying guo jin rong shi bao	10
 南百	nan bai	10
 逃汇	tao hui	10
-北京分行	bei jing fen hang	9
+北京分行	bei jing fen xing	9
 酒鬼酒	jiu gui jiu	9
 增值税普通发票	zeng zhi shui pu tong fa piao	9
 万泽股份	wan ze gu fen	9
@@ -2681,7 +2681,7 @@ sort: by_weight
 新兴市场	xin xing shi chang	9
 证券投资基金	zheng quan tou zi ji jin	9
 创兴银行	chuang xing yin hang	9
-西藏天路	xi zang tian lu	9
+西藏天路	xi cang tian lu	9
 焦作万方	jiao zuo wan fang	9
 科伦药业	ke lun yao ye	9
 天马精化	tian ma jing hua	9
@@ -2697,7 +2697,7 @@ sort: by_weight
 残值率	can zhi lv	9
 雄震	xiong zhen	9
 中金公司	zhong jin gong si	9
-中信实业银行	zhong xin shi ye yin hang	9
+中信实业银行	zhong xin shi ye yin xing	9
 汇多利	hui duo li	9
 北京天桥	bei jing tian qiao	8
 鄂绒	e rong	8
@@ -3136,7 +3136,7 @@ sort: by_weight
 有效市场假说	you xiao shi chang jia shuo	3
 评估方案	ping gu fang an	3
 东华能源	dong hua neng yuan	3
-货币银行学	huo bi yin hang xue	3
+货币银行学	huo bi yin xing xue	3
 深圳方大	shen zhen fang da	3
 上海辅仁	shang hai fu ren	3
 可用资产	ke yong zi chan	3
@@ -3179,9 +3179,9 @@ sort: by_weight
 万象集团	wan xiang ji tuan	3
 现手	xian shou	3
 深圳市海王生物工程股份有限公司	shen zhen shi hai wang sheng wu gong cheng gu fen you xian gong si	3
-分行制	fen hang zhi	3
+分行制	fen xing zhi	3
 友邦华泰	you bang hua tai	3
-轧空	ya kong	3
+轧空	ga kong	3
 博软	bo ruan	3
 金瑞矿业	jin rui kuang ye	3
 明星电力	ming xing dian li	3
@@ -3229,7 +3229,7 @@ sort: by_weight
 深特力	shen te li	2
 中国北车	zhong guo bei che	2
 东方银行	dong fang yin hang	2
-广汽长丰	guang qi zhang feng	2
+广汽长丰	guang qi chang feng	2
 武汉凯迪电力股份有限公司	wu han kai di dian li gu fen you xian gong si	2
 重庆桐君阁股份有限公司	chong qing tong jun ge gu fen you xian gong si	2
 赛格三星	sai ge san xing	2
@@ -3313,7 +3313,7 @@ sort: by_weight
 评价中心	ping jia zhong xin	2
 海王生物	hai wang sheng wu	2
 次新股	ci xin gu	2
-瑞士银行公司	rui shi yin hang gong si	2
+瑞士银行公司	rui shi yin xing gong si	2
 投资收藏	tou zi shou cang	2
 税收缴款书	shui shou jiao kuan shu	2
 重庆华亚	chong qing hua ya	2
@@ -3337,7 +3337,7 @@ sort: by_weight
 公营化	gong ying hua	2
 天合光能	tian he guang neng	2
 鲁政委	lu zheng wei	2
-信达地产	xin da de chan	2
+信达地产	xin da di chan	2
 卖超	mai chao	2
 印子钱	yin zi qian	2
 深值	shen zhi	2
@@ -3361,7 +3361,7 @@ sort: by_weight
 衍生权证	yan sheng quan zheng	2
 深圳国际	shen zhen guo ji	2
 交易密码	jiao yi mi ma	2
-财务会计	cai wu kuai ji	2
+财务会计	cai wu hui ji	2
 北海集团	bei hai ji tuan	2
 民间借贷	min jian jie dai	2
 南方汇通股份有限公司	nan fang hui tong gu fen you xian gong si	2
@@ -3392,7 +3392,7 @@ sort: by_weight
 思捷环球	si jie huan qiu	2
 高盛集团	gao sheng ji tuan	2
 普天债券	pu tian zhai quan	2
-金朝阳集团	jin zhao yang ji tuan	2
+金朝阳集团	jin chao yang ji tuan	2
 北京科锐	bei jing ke rui	2
 资信证明	zi xin zheng ming	2
 产品介绍	chan pin jie shao	2
@@ -3451,7 +3451,7 @@ sort: by_weight
 杨红革	yang hong ge	1
 南博网	nan bo wang	1
 东方电机	dong fang dian ji	1
-华润置地	hua run zhi de	1
+华润置地	hua run zhi di	1
 审计意见	shen ji yi jian	1
 太光电信	tai guang dian xin	1
 苏物贸	su wu mao	1
@@ -3622,7 +3622,7 @@ sort: by_weight
 青岛碱业	qing dao jian ye	1
 电广实业	dian guang shi ye	1
 看涨者	kan zhang zhe	1
-大通曼哈顿银行	da tong man ha dun yin hang	1
+大通曼哈顿银行	da tong man ha dun yin xing	1
 兴业银行	xing ye yin hang	1
 益民红利	yi min hong li	1
 外汇交易	wai hui jiao yi	1
