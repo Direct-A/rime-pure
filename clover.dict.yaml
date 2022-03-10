@@ -4,6 +4,7 @@ version: "1"
 sort: by_weight
 
 import_tables:
+  - clover.base
   - clover.base.ucs
   - clover.base.ucs_other
   - clover.phrase
@@ -19,4 +20,3 @@ import_tables:
   - THUOCL_medical
   - THUOCL_poem
   - sogou_new_words
-
