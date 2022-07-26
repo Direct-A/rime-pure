@@ -1,10 +1,10 @@
 {
-  "name": "Chinese to Emoji",
+  "name": "Simplified Chinese to Traditional Chinese (Taiwan standard)",
   "segmentation": {
     "type": "mmseg",
     "dict": {
       "type": "text",
-      "file": "emoji_word.txt"
+      "file": "STPhrases.txt"
     }
   },
   "conversion_chain": [{
@@ -12,11 +12,16 @@
       "type": "group",
       "dicts": [{
         "type": "text",
-        "file": "emoji_word.txt"
+        "file": "STPhrases.txt"
       }, {
         "type": "text",
-        "file": "emoji_category.txt"
+        "file": "STCharacters.txt"
       }]
+    }
+  }, {
+    "dict": {
+      "type": "text",
+      "file": "TWVariants.txt"
     }
   }]
 }
