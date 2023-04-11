@@ -1,0 +1,57 @@
+基础文件 -> rime-pure/
+	symbols.yaml	自定义文件头
+
+基础文件/opencc -> rime-pure/opencc
+	emoji.json	有差异，各自匹配
+	es.txt	匹配
+	其余均一致
+
+小鹤双拼 -> rime-pure/
+完全一样
+小鹤双拼/build -> rime-pure/build
+完全一样
+
+基础文件 -> rime-pure/
+	essay.txt	完全一样
+	numbers.schema.yaml	完全一样
+	rime.lua	完全一样
+
+Clover四叶草拼音 -> rime-pure/
+	clover.dict.yaml	需要自行定制，包含自定义词典
+	clover.base.dict.yaml	完全一样
+	clover.key_bindings.yaml	完全一样
+	clover.schema.yaml	完全一样
+	clover.base.ucs.dict.yaml	从当前目录中删除
+	clover.base.ucs_other.dict.yaml	从当前目录中删除
+	clover.phrase.dict.yaml	从当前目录中删除
+	huayu.dict.yaml	添加进当前目录
+
+Clover四叶草地球拼音 -> rime-pure/
+	sogou_new_words_terra.dict.yaml	替换terra并添加
+	THUOCL_animal_terra.dict.yaml	替换terra并添加
+	THUOCL_caijing_terra.dict.yaml	替换terra并添加
+	THUOCL_car_terra.dict.yaml	替换terra并添加
+	THUOCL_chengyu_terra.dict.yaml	替换terra并添加
+	THUOCL_diming_terra.dict.yaml	替换terra并添加
+	THUOCL_food_terra.dict.yaml	替换terra并添加
+	THUOCL_IT_terra.dict.yaml	替换terra并添加
+	THUOCL_law_terra.dict.yaml	替换terra并添加
+	THUOCL_lishimingren_terra.dict.yaml	替换terra并添加
+	THUOCL_medical_terra.dict.yaml	替换terra并添加
+	THUOCL_poem_terra.dict.yaml	替换terra并添加
+
+rime-pure/default.yaml	保留
+rime-pure/punctuator.yaml	保留
+rime-pure/zhwiki.dict.yaml	保留
+rime-pure/sogou_new_words.dict.yaml	从当前目录中删除
+rime-pure/THUOCL_animal.dict.yaml	从当前目录中删除
+rime-pure/THUOCL_caijing.dict.yaml	从当前目录中删除
+rime-pure/THUOCL_car.dict.yaml	从当前目录中删除
+rime-pure/THUOCL_chengyu.dict.yaml	从当前目录中删除
+rime-pure/THUOCL_diming.dict.yaml	从当前目录中删除
+rime-pure/THUOCL_food.dict.yaml	从当前目录中删除
+rime-pure/THUOCL_IT.dict.yaml	从当前目录中删除
+rime-pure/THUOCL_law.dict.yaml	从当前目录中删除
+rime-pure/THUOCL_lishimingren.dict.yaml	从当前目录中删除
+rime-pure/THUOCL_medical.dict.yaml	从当前目录中删除
+rime-pure/THUOCL_poem.dict.yaml	从当前目录中删除
