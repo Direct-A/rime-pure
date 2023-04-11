@@ -4,7 +4,7 @@
 # Version: 0.1
 # Description: 清理残余文件
 
-LIST=(default.yaml huayu.dict.yaml punctuator.yaml keybindings.yaml)
+LIST=(`ls ./customized`)
 
 for i in `ls ./target`; do
   if [[ ! " ${LIST[@]} " =~ " ${i} " ]]; then
