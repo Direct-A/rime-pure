@@ -34,11 +34,9 @@ punctuator:
 
 key_binder:
   bindings:
-    __include:
-      #- keybindings:/move_by_word_with_tab
+    __patch:
       - keybindings:/emacs_editing
-      - keybindings:/paging_with_alt_ctl_v
-      - keybindings:/paging_with_tab
+      - keybindings:/move_by_word_with_tab
       - keybindings:/paging_with_minus_equal
       - keybindings:/paging_with_comma_period
       - keybindings:/numbered_mode_switch
